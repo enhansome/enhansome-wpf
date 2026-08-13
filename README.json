@@ -1,0 +1,971 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Presentation Foundation (WPF) | GitHub",
+          "description": "Windows Presentation Foundation GitHub Repository | WPF is a .NET Core UI framework for building Windows desktop applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T09:05:26Z",
+            "owner": "dotnet",
+            "repo": "wpf",
+            "stars": 7708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPF-Samples",
+          "description": "Microsoft Repository for WPF related samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T18:47:24Z",
+            "owner": "microsoft",
+            "repo": "WPF-Samples",
+            "stars": 5726
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UI Controls"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Material Design In XAML Toolkit",
+          "description": "(FREE, OPEN SOURCE) Google's Material Design in XAML & WPF, for C# & VB.Net.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T00:34:26Z",
+            "owner": "MaterialDesignInXAML",
+            "repo": "MaterialDesignInXamlToolkit",
+            "stars": 16234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPF UI",
+          "description": "(FREE, OPEN SOURCE) Modern styles and controls for WPF application inspired by the modern Microsoft Fluent Design System. A simple way to make your application written in WPF keep up with modern design trends. Design of the interface, choice of colors and the appearance of the controls were inspired by projects made by Microsoft for Windows 11.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-27T13:58:28Z",
+            "owner": "lepoco",
+            "repo": "wpfui",
+            "stars": 9593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HandyControl",
+          "description": "(FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T02:30:52Z",
+            "owner": "HandyOrg",
+            "repo": "HandyControl",
+            "stars": 7163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModernWPF UI Library",
+          "description": "(FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T04:37:46Z",
+            "owner": "Kinnara",
+            "repo": "ModernWpf",
+            "stars": 4952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extended WPF Toolkit",
+          "description": "(FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-11T14:37:13Z",
+            "owner": "xceedsoftware",
+            "repo": "wpftoolkit",
+            "stars": 4163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern UI for WPF (MUI)",
+          "description": "(FREE, OPEN SOURCE) A set of controls and styles converting your WPF application into a great looking Modern UI app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-07-27T03:24:40Z",
+            "owner": "kozw",
+            "repo": "mui",
+            "stars": 2601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adonis-UI",
+          "description": "(FREE, OPEN SOURCE) Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-09-29T06:49:57Z",
+            "owner": "benruehl",
+            "repo": "adonis-ui",
+            "stars": 1866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ookii Dialogs WPF",
+          "description": "(FREE, OPEN SOURCE) A set of dialogs for your WPF applications. Included are classes for task dialogs, credential dialog, progress dialog, and common file dialogs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-23T15:22:32Z",
+            "owner": "ookii-dialogs",
+            "repo": "ookii-dialogs-wpf",
+            "stars": 1335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ControlzEx",
+          "description": "(FREE, OPEN SOURCE) Shared Controlz for WPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-25T18:09:29Z",
+            "owner": "ControlzEx",
+            "repo": "ControlzEx",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI.WPF.Modern",
+          "description": "(FREE, OPEN SOURCE) An innovative UI library for Windows Presentation Foundation (WPF) applications, designed to emulate the sleek and modern aesthetics of the Fluent Design system found in WinUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T06:30:03Z",
+            "owner": "iNKORE-NET",
+            "repo": "UI.WPF.Modern",
+            "stars": 1026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Design Extensions",
+          "description": "(FREE, OPEN SOURCE) Material Design Extensions is based on Material Design in XAML Toolkit to provide additional controls and features for WPF apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-07T18:12:58Z",
+            "owner": "spiegelp",
+            "repo": "MaterialDesignExtensions",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPFSpark",
+          "description": "(FREE, OPEN SOURCE) A rich UserControl library to enhance the look and feel of WPF applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-17T21:50:15Z",
+            "owner": "ratishphilip",
+            "repo": "wpfspark",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MosaicUIWpf",
+          "description": "(FREE, OPEN SOURCE) Mosaic UI for WPF is a control library that seeks to provide compartmentalized controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T13:54:43Z",
+            "owner": "blakepell",
+            "repo": "MosaicUIWpf",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Control Suites"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CefSharp",
+          "description": "(FREE, OPEN SOURCE) .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T03:23:29Z",
+            "owner": "cefsharp",
+            "repo": "CefSharp",
+            "stars": 10238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mpv.net",
+          "description": "(FREE, OPEN SOURCE) mpv.net is a modern media player for Windows that works just like mpv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-09T13:12:05Z",
+            "owner": "mpvnet-player",
+            "repo": "mpv.net",
+            "stars": 5318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent.Ribbon",
+          "description": "(FREE, OPEN SOURCE) Fluent.Ribbon is a library that implements an Office-like user interface for the Windows Presentation Foundation (WPF).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-30T05:41:10Z",
+            "owner": "fluentribbon",
+            "repo": "Fluent.Ribbon",
+            "stars": 2756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragablz",
+          "description": "(FREE, OPEN SOURCE) Tearable tab control for WPF, which includes docking, tool windows and MDI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-22T06:01:01Z",
+            "owner": "ButchersBoy",
+            "repo": "Dragablz",
+            "stars": 2322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvalonEdit",
+          "description": "(FREE, OPEN SOURCE) AvalonEdit is the name of the WPF-based text editor in SharpDevelop 4.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-04T12:58:14Z",
+            "owner": "icsharpcode",
+            "repo": "AvalonEdit",
+            "stars": 2077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PropertyTools",
+          "description": "(FREE, OPEN SOURCE) Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T06:43:59Z",
+            "owner": "PropertyTools",
+            "repo": "PropertyTools",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ffmediaelement",
+          "description": "(FREE, OPEN SOURCE) FME: The Advanced WPF MediaElement (based on FFmpeg).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-26T19:16:34Z",
+            "owner": "unosquare",
+            "repo": "ffmediaelement",
+            "stars": 1274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Data Display for WPF",
+          "description": "(FREE, OPEN SOURCE) Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-03-17T07:13:32Z",
+            "owner": "microsoft",
+            "repo": "InteractiveDataDisplay.WPF",
+            "stars": 1012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hardcodet NotifyIcon for WPF",
+          "description": "(FREE, OPEN SOURCE) This is an implementation of a NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-16T21:41:32Z",
+            "owner": "hardcodet",
+            "repo": "wpf-notifyicon",
+            "stars": 978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WpfHexEditorControl",
+          "description": "(FREE, OPEN SOURCE) Wpf Hexeditor is a fast and fully customisable user control for editing file or stream as hexadecimal. Can be used in Wpf or WinForm application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-29T14:41:16Z",
+            "owner": "abbaye",
+            "repo": "WpfHexEditorIDE",
+            "stars": 928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConsoleControl",
+          "description": "(FREE, OPEN SOURCE) ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-29T23:51:54Z",
+            "owner": "dwmkerr",
+            "repo": "consolecontrol",
+            "stars": 787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoadingIndicators.WPF",
+          "description": "(FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-06T14:17:57Z",
+            "owner": "zeluisping",
+            "repo": "LoadingIndicators.WPF",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xaml-Math",
+          "description": "(FREE, OPEN SOURCE) XAML-Math is a collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T05:07:38Z",
+            "owner": "ForNeVeR",
+            "repo": "xaml-math",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notifications.Wpf",
+          "description": "(FREE, OPEN SOURCE) WPF toast notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-10-20T22:40:21Z",
+            "owner": "Federerer",
+            "repo": "Notifications.Wpf",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emoji.Wpf",
+          "description": "(FREE, OPEN SOURCE) Emoji.Wpf is an implementation of color Emoji rendering for WPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-21T14:32:41Z",
+            "owner": "samhocevar",
+            "repo": "emoji.wpf",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wpf.Notifications",
+          "description": "(FREE, OPEN SOURCE) WPF notifications UI controls (as seen in VS Code).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-11T22:34:05Z",
+            "owner": "Enterwell",
+            "repo": "Wpf.Notifications",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPF AutoComplete TextBox",
+          "description": "(FREE, OPEN SOURCE) An autocomplete TextBox for WPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-07T06:42:08Z",
+            "owner": "quicoli",
+            "repo": "WPF-AutoComplete-TextBox",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPF-MediaKit",
+          "description": "(FREE, OPEN SOURCE) A library to quickly build DirectShow media player controls in WPF. The kit comes with a video player.MediaUriElement (a WPF MediaElement replacement), a VideoCaptureElement for web cams and a DVDPlayerElement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-23T14:22:22Z",
+            "owner": "Sascha-L",
+            "repo": "WPF-MediaKit",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gu.Wpf.Geometry",
+          "description": "(FREE, OPEN SOURCE) Small library with WPF geometries and shaders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-25T21:01:13Z",
+            "owner": "GuOrg",
+            "repo": "Gu.Wpf.Geometry",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPFCustomMessageBox",
+          "description": "(FREE, OPEN SOURCE) WPFCustomMessageBox is a WPF clone of the native Windows/.NET MessageBox with extra features like custom button text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-29T13:02:33Z",
+            "owner": "evanwon",
+            "repo": "WPFCustomMessageBox",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toggle Switch Control Library",
+          "description": "(FREE, OPEN SOURCE) The Toggle Switch Control Library creates highly customizable toggle switch controls for WPF and Silverlight apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-11T05:22:05Z",
+            "owner": "ejensen",
+            "repo": "toggle-switch-control",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColorPickerWPF",
+          "description": "(FREE, OPEN SOURCE) A simple WPF color picker control for .NET 4.5.2 licensed under MIT. Contains two color gradient images to sample from, and custom palette support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-06-24T16:30:12Z",
+            "owner": "drogoganor",
+            "repo": "ColorPickerWPF",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wpfchrometabs",
+          "description": "(FREE, OPEN SOURCE) A WPF custom tab control built from the ground up to mimic the user experience found in Google's Chrome browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-08-27T04:08:31Z",
+            "owner": "realistschuckle",
+            "repo": "wpfchrometabs",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPFToastNotification",
+          "description": "(FREE, OPEN SOURCE) Fancy toast notification for WPF applications easy to use and support MVVM pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-11T15:06:26Z",
+            "owner": "muhammad-magdy",
+            "repo": "WPFToastNotification",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gu.Wpf.FlipView",
+          "description": "(FREE, OPEN SOURCE) A flipview for WPF, handles touch & mouse swipe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-25T15:26:30Z",
+            "owner": "GuOrg",
+            "repo": "Gu.Wpf.FlipView",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Individual Controls"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Font-Awesome-WPF 4.7",
+          "description": "(FREE, OPEN SOURCE) WPF controls for the iconic font and CSS toolkit Font Awesome. Current Version: v4.7.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-03-16T07:14:29Z",
+            "owner": "charri",
+            "repo": "Font-Awesome-WPF",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FontAwesome.Sharp",
+          "description": "(FREE, OPEN SOURCE) A library for embedding Font Awesome icons in WPF & Windows Forms applications via NuGet. Inspired by ioachim/fontawesome.wpf (Bitbucket) and Using Font Icons (CodeProject).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-31T08:34:36Z",
+            "owner": "awesome-inc",
+            "repo": "FontAwesome.Sharp",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FontAwesome5",
+          "description": "(FREE, OPEN SOURCE) WPF (.Net and .Net Core) and UWP/WinUI controls for the iconic SVG, font, and CSS toolkit Font Awesome 5. Current Version: v5.15.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-07T13:06:06Z",
+            "owner": "MartinTopfstedt",
+            "repo": "FontAwesome5",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FontAwesome6",
+          "description": "(FREE, OPEN SOURCE) WPF (.Net and .Net Core), UWP and WinUI controls for the web's most popular icon set and toolkit. Current Version: 6.2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-17T09:30:45Z",
+            "owner": "MartinTopfstedt",
+            "repo": "FontAwesome6",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wpf.fontawesome5",
+          "description": "(FREE, OPEN SOURCE) With wpf.fontawesome5 you can use the popular icon library FontAwesome 5.12.0 within your WPF applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-01-31T10:12:31Z",
+            "owner": "SubEthaSensOMatic",
+            "repo": "wpf.fontawesome5",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Fonts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Material Design In XAML Toolkit",
+          "description": "(FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T00:34:26Z",
+            "owner": "MaterialDesignInXAML",
+            "repo": "MaterialDesignInXamlToolkit",
+            "stars": 16234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModernWPF UI Library",
+          "description": "(FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T04:37:46Z",
+            "owner": "Kinnara",
+            "repo": "ModernWpf",
+            "stars": 4952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wpf Office Theme",
+          "description": "(FREE, OPEN SOURCE) WPF theme influenced by minimalistic MS Office style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-07-06T16:32:06Z",
+            "owner": "TanyaPristupova",
+            "repo": "WpfOfficeTheme",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prism",
+          "description": "(FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T01:21:10Z",
+            "owner": "PrismLibrary",
+            "repo": "Prism",
+            "stars": 6829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MvvmCross",
+          "description": "(FREE, OPEN SOURCE) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:47:55Z",
+            "owner": "MvvmCross",
+            "repo": "MvvmCross",
+            "stars": 3922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caliburn.Micro",
+          "description": "(FREE, OPEN SOURCE) A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T15:11:04Z",
+            "owner": "Caliburn-Micro",
+            "repo": "Caliburn.Micro",
+            "stars": 2863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GongSolutions.WPF.DragDrop",
+          "description": "(FREE, OPEN SOURCE) An easy to use drag'n'drop framework for WPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-01T06:35:42Z",
+            "owner": "punker76",
+            "repo": "gong-wpf-dragdrop",
+            "stars": 2557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentWPF",
+          "description": "(FREE, OPEN SOURCE) Fluent Design System for WPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-08T17:04:32Z",
+            "owner": "sourcechord",
+            "repo": "FluentWPF",
+            "stars": 1534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPF Animated GIF",
+          "description": "(FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-11T13:07:16Z",
+            "owner": "XamlAnimatedGif",
+            "repo": "WpfAnimatedGif",
+            "stars": 686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elmish.WPF",
+          "description": "(FREE, OPEN SOURCE) The good parts of MVVM (the data bindings) with the simplicity and robustness of an MVU architecture for the rest of your app. Never write a ViewModel class again!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-10-01T21:20:06Z",
+            "owner": "elmish",
+            "repo": "Elmish.WPF",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeftSharp.Windows.Input",
+          "description": "(FREE, OPEN SOURCE) A simple keyboard/mouse event handler for WPF applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-04T10:49:16Z",
+            "owner": "Empiree",
+            "repo": "DeftSharp.Windows.Input",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serilog.Sinks.RichTextBox.Wpf",
+          "description": "(FREE, OPEN SOURCE) A Serilog sink that writes log events to any WPF RichTextBox control with coloring and custom theme support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-23T02:02:42Z",
+            "owner": "serilog-contrib",
+            "repo": "serilog-sinks-richtextbox",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPFTabTip",
+          "description": "(FREE, OPEN SOURCE) Simple TabTip / Virtual Keyboard integration for WPF apps on Win 8.1 and Win 10.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-05-13T14:20:15Z",
+            "owner": "maximcus",
+            "repo": "WPFTabTip",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gu.Localization",
+          "description": "(FREE, OPEN SOURCE) Localization for WPF using ResourceManager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-25T16:16:04Z",
+            "owner": "GuOrg",
+            "repo": "Gu.Localization",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UpbeatUI",
+          "description": "(FREE, OPEN SOURCE) A lightweight MVVM framework for quickly developing mobile-style applications for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-20T17:40:42Z",
+            "owner": "Pulselyre",
+            "repo": "UpbeatUI",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Snoop",
+          "description": "(FREE, OPEN SOURCE) Snoop is the open source WPF spying utility. It allows you to spy/browse the visual tree of a running application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-05T12:15:56Z",
+            "owner": "snoopwpf",
+            "repo": "snoopwpf",
+            "stars": 2521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAML Viewer",
+          "description": "(FREE, OPEN SOURCE) XAML Viewer is a lightweight XAML editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-09-20T08:52:33Z",
+            "owner": "WPFDevelopersOrg",
+            "repo": "XamlViewer",
+            "stars": 292
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The World's Simplest C# WPF MVVM Example",
+          "description": "A simple MVVM example using WPF and C# 9.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-30T19:37:18Z",
+            "owner": "MarkWithall",
+            "repo": "worlds-simplest-csharp-wpf-mvvm-example",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleTrader",
+          "description": "A full stack WPF MVVM trading application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-05T11:05:37Z",
+            "owner": "SingletonSean",
+            "repo": "SimpleTrader",
+            "stars": 319
+          }
+        }
+      ],
+      "title": "Sample Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "Top 10 WPF Libraries in 2017 6 Best WPF & XAML Courses & Tutorials",
+      "items": [],
+      "title": "Credits and sources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:59:05.128Z",
+    "original_repository": "Carlos487/awesome-wpf",
+    "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
+    "enhanced_repository": "enhansome/enhansome-wpf",
+    "enhanced_repository_description": null,
+    "title": "Awesome WPF with stars"
+  }
+}
