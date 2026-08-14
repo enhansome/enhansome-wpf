@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T09:05:26Z",
+            "last_commit": "2026-08-13T18:55:34Z",
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7708
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-10T18:47:24Z",
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5726
+            "stars": 5728
           }
         }
       ],
@@ -67,7 +67,7 @@
             "last_commit": "2026-06-27T13:58:28Z",
             "owner": "lepoco",
             "repo": "wpfui",
-            "stars": 9593
+            "stars": 9597
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-11T02:30:52Z",
             "owner": "HandyOrg",
             "repo": "HandyControl",
-            "stars": 7163
+            "stars": 7164
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-06-11T14:37:13Z",
             "owner": "xceedsoftware",
             "repo": "wpftoolkit",
-            "stars": 4163
+            "stars": 4164
           }
         },
         {
@@ -218,7 +218,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T13:54:43Z",
+            "last_commit": "2026-08-13T22:40:03Z",
             "owner": "blakepell",
             "repo": "MosaicUIWpf",
             "stars": 14
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-12T03:23:29Z",
             "owner": "cefsharp",
             "repo": "CefSharp",
-            "stars": 10238
+            "stars": 10240
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-02-09T13:12:05Z",
             "owner": "mpvnet-player",
             "repo": "mpv.net",
-            "stars": 5318
+            "stars": 5321
           }
         },
         {
@@ -395,7 +395,7 @@
             "last_commit": "2022-04-06T14:17:57Z",
             "owner": "zeluisping",
             "repo": "LoadingIndicators.WPF",
-            "stars": 742
+            "stars": 741
           }
         },
         {
@@ -732,7 +732,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T03:47:55Z",
+            "last_commit": "2026-08-14T06:58:01Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3922
@@ -895,7 +895,7 @@
             "last_commit": "2026-07-05T12:15:56Z",
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2521
+            "stars": 2520
           }
         },
         {
@@ -961,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:59:05.128Z",
+    "last_updated": "2026-08-14T09:55:37.110Z",
     "original_repository": "Carlos487/awesome-wpf",
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
     "enhanced_repository": "enhansome/enhansome-wpf",
