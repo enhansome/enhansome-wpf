@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T02:03:21Z",
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7710
+            "stars": 7711
           }
         },
         {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-07-26T06:30:03Z",
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1028
+                "stars": 1029
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-16T03:08:57Z",
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10241
+                "stars": 10242
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5333
+                "stars": 5334
               }
             },
             {
@@ -315,7 +315,7 @@
                 "last_commit": "2025-12-04T12:58:14Z",
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
-                "stars": 2074
+                "stars": 2075
               }
             },
             {
@@ -773,7 +773,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6832
+            "stars": 6833
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2026-08-19T06:43:10Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3922
+            "stars": 3923
           }
         },
         {
@@ -1018,8 +1018,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:28:03.913Z",
+    "last_updated": "2026-08-19T12:59:47.288Z",
     "original_repository": "Carlos487/awesome-wpf",
+    "original_repository_id": 242047089,
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
     "enhanced_repository": "enhansome/enhansome-wpf",
     "enhanced_repository_description": null,
