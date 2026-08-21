@@ -12,10 +12,10 @@
             "archived": false,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-19T02:03:21Z",
+            "last_commit": "2026-08-21T07:21:56Z",
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7711
+            "stars": 7712
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T02:23:07Z",
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5729
+            "stars": 5730
           }
         }
       ],
@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 30474266,
                 "language": "C#",
-                "last_commit": "2026-08-03T00:34:26Z",
+                "last_commit": "2026-08-21T07:08:05Z",
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16242
+                "stars": 16240
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-06-27T13:58:28Z",
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9606
+                "stars": 9608
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-11T02:30:52Z",
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7164
+                "stars": 7165
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-06-11T14:37:13Z",
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
-                "stars": 4163
+                "stars": 4164
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-04-25T18:09:29Z",
                 "owner": "ControlzEx",
                 "repo": "ControlzEx",
-                "stars": 1069
+                "stars": 1068
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-07-26T06:30:03Z",
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1029
+                "stars": 1030
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-16T03:08:57Z",
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10242
+                "stars": 10243
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5336
+                "stars": 5338
               }
             },
             {
@@ -719,10 +719,10 @@
             "archived": false,
             "id": 30474266,
             "language": "C#",
-            "last_commit": "2026-08-03T00:34:26Z",
+            "last_commit": "2026-08-21T07:08:05Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16242
+            "stars": 16240
           }
         },
         {
@@ -773,7 +773,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6834
+            "stars": 6833
           }
         },
         {
@@ -848,7 +848,7 @@
             "last_commit": "2023-05-11T13:07:16Z",
             "owner": "XamlAnimatedGif",
             "repo": "WpfAnimatedGif",
-            "stars": 686
+            "stars": 685
           }
         },
         {
@@ -1018,7 +1018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:28:31.825Z",
+    "last_updated": "2026-08-21T09:31:40.943Z",
     "original_repository": "Carlos487/awesome-wpf",
     "original_repository_id": 242047089,
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
