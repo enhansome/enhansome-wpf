@@ -12,10 +12,10 @@
             "archived": false,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-21T07:21:56Z",
+            "last_commit": "2026-08-21T18:20:21Z",
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7712
+            "stars": 7713
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T02:23:07Z",
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5730
+            "stars": 5732
           }
         }
       ],
@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 30474266,
                 "language": "C#",
-                "last_commit": "2026-08-21T07:08:05Z",
+                "last_commit": "2026-08-22T03:35:24Z",
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16240
+                "stars": 16241
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-06-27T13:58:28Z",
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9608
+                "stars": 9607
               }
             },
             {
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 44004571,
                 "language": "C#",
-                "last_commit": "2026-04-25T18:09:29Z",
+                "last_commit": "2026-08-21T18:46:48Z",
                 "owner": "ControlzEx",
                 "repo": "ControlzEx",
                 "stars": 1068
@@ -188,7 +188,7 @@
                 "last_commit": "2026-07-26T06:30:03Z",
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1030
+                "stars": 1029
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 1045629604,
                 "language": "C#",
-                "last_commit": "2026-08-19T15:00:37Z",
+                "last_commit": "2026-08-22T00:38:02Z",
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
                 "stars": 14
@@ -270,7 +270,7 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5338
+                "stars": 5339
               }
             },
             {
@@ -282,10 +282,10 @@
                 "archived": false,
                 "id": 26130868,
                 "language": "C#",
-                "last_commit": "2026-05-30T05:41:10Z",
+                "last_commit": "2026-08-21T18:48:15Z",
                 "owner": "fluentribbon",
                 "repo": "Fluent.Ribbon",
-                "stars": 2755
+                "stars": 2757
               }
             },
             {
@@ -719,10 +719,10 @@
             "archived": false,
             "id": 30474266,
             "language": "C#",
-            "last_commit": "2026-08-21T07:08:05Z",
+            "last_commit": "2026-08-22T03:35:24Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16240
+            "stars": 16241
           }
         },
         {
@@ -773,7 +773,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6833
+            "stars": 6834
           }
         },
         {
@@ -956,7 +956,7 @@
             "archived": false,
             "id": 4137931,
             "language": "C#",
-            "last_commit": "2026-07-05T12:15:56Z",
+            "last_commit": "2026-08-21T18:43:50Z",
             "owner": "snoopwpf",
             "repo": "snoopwpf",
             "stars": 2520
@@ -1018,7 +1018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:31:40.943Z",
+    "last_updated": "2026-08-22T09:21:50.692Z",
     "original_repository": "Carlos487/awesome-wpf",
     "original_repository_id": 242047089,
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
