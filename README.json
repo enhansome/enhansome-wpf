@@ -12,7 +12,7 @@
             "archived": false,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-24T07:48:39Z",
+            "last_commit": "2026-08-24T12:34:33Z",
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7714
@@ -188,7 +188,7 @@
                 "last_commit": "2026-07-26T06:30:03Z",
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1029
+                "stars": 1028
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5347
+                "stars": 5348
               }
             },
             {
@@ -405,7 +405,7 @@
                 "last_commit": "2023-05-29T23:51:54Z",
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
-                "stars": 787
+                "stars": 786
               }
             },
             {
@@ -785,7 +785,7 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-24T03:23:41Z",
+            "last_commit": "2026-08-24T13:26:01Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3923
@@ -1018,7 +1018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:41:15.073Z",
+    "last_updated": "2026-08-24T14:07:12.161Z",
     "original_repository": "Carlos487/awesome-wpf",
     "original_repository_id": 242047089,
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
