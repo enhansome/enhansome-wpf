@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-22T03:35:24Z",
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16242
+                "stars": 16243
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-06-27T13:58:28Z",
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9608
+                "stars": 9610
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-11T02:30:52Z",
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7165
+                "stars": 7166
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-24T17:24:26Z",
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
-                "stars": 14
+                "stars": 15
               }
             }
           ],
@@ -722,7 +722,7 @@
             "last_commit": "2026-08-22T03:35:24Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16242
+            "stars": 16243
           }
         },
         {
@@ -1018,7 +1018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:21.172Z",
+    "last_updated": "2026-08-25T09:30:01.250Z",
     "original_repository": "Carlos487/awesome-wpf",
     "original_repository_id": 242047089,
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",

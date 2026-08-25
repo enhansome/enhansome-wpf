@@ -2,7 +2,7 @@
 
 A collection of awesome WPF resources, libraries and UI controls.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,697 | 🐛 106 | 📅 2026-08-21, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,577 | 🐛 139 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,371 | 🐛 211 | 🌐 C# | 📅 2026-02-27.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,743 | 🐛 106 | 📅 2026-08-21, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,577 | 🐛 139 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,371 | 🐛 211 | 🌐 C# | 📅 2026-02-27.
 
 ## Contents
 
@@ -33,9 +33,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,697 | �
 
 ### Control Suites
 
-* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐ 16,242 | 🐛 149 | 🌐 C# | 📅 2026-08-22 - (FREE, OPEN SOURCE) Google's Material Design in XAML & WPF, for C# & VB.Net.
-* [WPF UI](https://github.com/lepoco/wpfui) ⭐ 9,608 | 🐛 452 | 🌐 C# | 📅 2026-06-27 - (FREE, OPEN SOURCE) Modern styles and controls for WPF application inspired by the modern Microsoft Fluent Design System. A simple way to make your application written in WPF keep up with modern design trends. Design of the interface, choice of colors and the appearance of the controls were inspired by projects made by Microsoft for Windows 11.
-* [HandyControl](https://github.com/handyOrg/HandyControl) ⭐ 7,165 | 🐛 327 | 🌐 C# | 📅 2026-08-11 - (FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls.
+* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐ 16,243 | 🐛 149 | 🌐 C# | 📅 2026-08-22 - (FREE, OPEN SOURCE) Google's Material Design in XAML & WPF, for C# & VB.Net.
+* [WPF UI](https://github.com/lepoco/wpfui) ⭐ 9,610 | 🐛 452 | 🌐 C# | 📅 2026-06-27 - (FREE, OPEN SOURCE) Modern styles and controls for WPF application inspired by the modern Microsoft Fluent Design System. A simple way to make your application written in WPF keep up with modern design trends. Design of the interface, choice of colors and the appearance of the controls were inspired by projects made by Microsoft for Windows 11.
+* [HandyControl](https://github.com/handyOrg/HandyControl) ⭐ 7,166 | 🐛 327 | 🌐 C# | 📅 2026-08-11 - (FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls.
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) ⭐ 4,957 | 🐛 2 | 🌐 C# | 📅 2026-08-19 - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
 * [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) ⭐ 4,165 | 🐛 783 | 🌐 C# | 📅 2026-06-11 - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications.
 * [Modern UI for WPF (MUI)](https://github.com/firstfloorsoftware/mui) ⚠️ Archived - (FREE, OPEN SOURCE) A set of controls and styles converting your WPF application into a great looking Modern UI app.
@@ -45,7 +45,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,697 | �
 * [UI.WPF.Modern](https://github.com/iNKORE-NET/UI.WPF.Modern) ⭐ 1,028 | 🐛 93 | 🌐 C# | 📅 2026-07-26 - (FREE, OPEN SOURCE) An innovative UI library for Windows Presentation Foundation (WPF) applications, designed to emulate the sleek and modern aesthetics of the Fluent Design system found in WinUI.
 * [Material Design Extensions](https://github.com/spiegelp/MaterialDesignExtensions) ⭐ 805 | 🐛 78 | 🌐 C# | 📅 2024-03-07 - (FREE, OPEN SOURCE) Material Design Extensions is based on Material Design in XAML Toolkit to provide additional controls and features for WPF apps.
 * [WPFSpark](https://github.com/ratishphilip/wpfspark) ⭐ 569 | 🐛 3 | 🌐 C# | 📅 2022-11-17 - (FREE, OPEN SOURCE) A rich UserControl library to enhance the look and feel of WPF applications.
-* [MosaicUIWpf](https://github.com/blakepell/MosaicUIWpf) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-08-24 - (FREE, OPEN SOURCE) Mosaic UI for WPF is a control library that seeks to provide compartmentalized controls.
+* [MosaicUIWpf](https://github.com/blakepell/MosaicUIWpf) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2026-08-24 - (FREE, OPEN SOURCE) Mosaic UI for WPF is a control library that seeks to provide compartmentalized controls.
 * [Actipro WPF Controls](https://www.actiprosoftware.com/products/controls/wpf) - (PAID, COMMERCIAL) A vast toolkit of professional UI controls, including docking windows, ribbons, editors, propertygrid, code editing, charts, gauges, wizards, themes, and much more.
 * [ComponentOne Studio WPF](https://www.grapecity.com/componentone/wpf-ui-controls) - (PAID, COMMERCIAL) ComponentOne Studio WPF Edition is a collection of easy to use WPF components currently including grids, charting, reporting and scheduling controls.
 * [DevExpress WPF UI Library](https://www.devexpress.com/products/net/controls/wpf/) - (PAID, COMMERCIAL) With over 120 UI controls and tools, the DevExpress WPF UI Library will help you deliver high-performance line of business applications that meet and exceed the needs of your enterprise.
@@ -102,7 +102,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,697 | �
 
 ## Themes
 
-* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐ 16,242 | 🐛 149 | 🌐 C# | 📅 2026-08-22 - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
+* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐ 16,243 | 🐛 149 | 🌐 C# | 📅 2026-08-22 - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) ⭐ 4,957 | 🐛 2 | 🌐 C# | 📅 2026-08-19 - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
 * [Wpf Office Theme](https://github.com/TanyaPristupova/WpfOfficeTheme) ⭐ 166 | 🐛 1 | 🌐 C# | 📅 2016-07-06 - (FREE, OPEN SOURCE) WPF theme influenced by minimalistic MS Office style.
 * [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
