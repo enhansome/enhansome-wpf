@@ -12,7 +12,7 @@
             "archived": false,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-24T12:34:33Z",
+            "last_commit": "2026-08-26T08:52:43Z",
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7716
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T02:23:07Z",
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5734
+            "stars": 5735
           }
         }
       ],
@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-22T03:35:24Z",
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16243
+                "stars": 16244
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-06-27T13:58:28Z",
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9610
+                "stars": 9612
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-11T02:30:52Z",
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7166
+                "stars": 7167
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2024-03-07T18:12:58Z",
                 "owner": "spiegelp",
                 "repo": "MaterialDesignExtensions",
-                "stars": 805
+                "stars": 804
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 1045629604,
                 "language": "C#",
-                "last_commit": "2026-08-24T17:24:26Z",
+                "last_commit": "2026-08-25T16:29:24Z",
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
                 "stars": 15
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-16T03:08:57Z",
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10244
+                "stars": 10245
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5348
+                "stars": 5346
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2026-08-08T06:43:59Z",
                 "owner": "PropertyTools",
                 "repo": "PropertyTools",
-                "stars": 1320
+                "stars": 1322
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2026-06-29T14:41:16Z",
                 "owner": "abbaye",
                 "repo": "WpfHexEditorIDE",
-                "stars": 929
+                "stars": 930
               }
             },
             {
@@ -722,7 +722,7 @@
             "last_commit": "2026-08-22T03:35:24Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16243
+            "stars": 16244
           }
         },
         {
@@ -773,7 +773,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6835
+            "stars": 6836
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2026-08-24T13:26:01Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3923
+            "stars": 3921
           }
         },
         {
@@ -878,7 +878,7 @@
             "last_commit": "2026-06-04T10:49:16Z",
             "owner": "Empiree",
             "repo": "DeftSharp.Windows.Input",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -938,7 +938,7 @@
             "last_commit": "2025-01-20T17:40:42Z",
             "owner": "Pulselyre",
             "repo": "UpbeatUI",
-            "stars": 24
+            "stars": 25
           }
         }
       ],
@@ -959,7 +959,7 @@
             "last_commit": "2026-08-23T10:04:34Z",
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2524
+            "stars": 2525
           }
         },
         {
@@ -1018,7 +1018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:30:01.250Z",
+    "last_updated": "2026-08-26T09:35:15.020Z",
     "original_repository": "Carlos487/awesome-wpf",
     "original_repository_id": 242047089,
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
