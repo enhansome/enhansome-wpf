@@ -12,7 +12,7 @@
             "archived": false,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-27T07:07:39Z",
+            "last_commit": "2026-08-27T19:03:22Z",
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7718
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 1045629604,
                 "language": "C#",
-                "last_commit": "2026-08-27T01:05:06Z",
+                "last_commit": "2026-08-27T18:16:14Z",
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
                 "stars": 15
@@ -315,7 +315,7 @@
                 "last_commit": "2025-12-04T12:58:14Z",
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
-                "stars": 2076
+                "stars": 2077
               }
             },
             {
@@ -773,7 +773,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6838
+            "stars": 6839
           }
         },
         {
@@ -785,7 +785,7 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-27T04:49:43Z",
+            "last_commit": "2026-08-27T13:30:45Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921
@@ -1018,7 +1018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:11:13.539Z",
+    "last_updated": "2026-08-27T19:23:21.240Z",
     "original_repository_info": {
       "archived": false,
       "id": 242047089,
@@ -1026,7 +1026,7 @@
       "last_commit": "2026-08-02T13:02:54Z",
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2163
+      "stars": 2164
     },
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
     "enhanced_repository": "enhansome/enhansome-wpf",
