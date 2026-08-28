@@ -12,11 +12,12 @@
             "archived": false,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-27T19:03:22Z",
+            "last_commit": "2026-08-28T11:16:28Z",
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7718
-          }
+            "stars": 7719
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "microsoft",
             "repo": "WPF-Samples",
             "stars": 5736
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         }
       ],
       "title": "General"
@@ -50,11 +52,12 @@
                 "archived": false,
                 "id": 30474266,
                 "language": "C#",
-                "last_commit": "2026-08-22T03:35:24Z",
+                "last_commit": "2026-08-28T06:13:36Z",
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16246
-              }
+                "stars": 16249
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -68,8 +71,9 @@
                 "last_commit": "2026-06-27T13:58:28Z",
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9613
-              }
+                "stars": 9616
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -83,8 +87,9 @@
                 "last_commit": "2026-08-11T02:30:52Z",
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7171
-              }
+                "stars": 7174
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -98,8 +103,9 @@
                 "last_commit": "2026-08-19T17:23:04Z",
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4959
-              }
+                "stars": 4961
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
                 "stars": 4165
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "kozw",
                 "repo": "mui",
                 "stars": 2602
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "benruehl",
                 "repo": "adonis-ui",
                 "stars": 1868
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -158,8 +167,9 @@
                 "last_commit": "2026-01-23T15:22:32Z",
                 "owner": "ookii-dialogs",
                 "repo": "ookii-dialogs-wpf",
-                "stars": 1336
-              }
+                "stars": 1337
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "ControlzEx",
                 "repo": "ControlzEx",
                 "stars": 1068
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
                 "stars": 1028
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "spiegelp",
                 "repo": "MaterialDesignExtensions",
                 "stars": 804
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "ratishphilip",
                 "repo": "wpfspark",
                 "stars": 569
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -230,11 +244,12 @@
                 "archived": false,
                 "id": 1045629604,
                 "language": "C#",
-                "last_commit": "2026-08-27T18:16:14Z",
+                "last_commit": "2026-08-28T19:15:49Z",
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             }
           ],
           "description": null,
@@ -256,7 +271,8 @@
                 "owner": "cefsharp",
                 "repo": "CefSharp",
                 "stars": 10246
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -270,8 +286,9 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5350
-              }
+                "stars": 5353
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "fluentribbon",
                 "repo": "Fluent.Ribbon",
                 "stars": 2757
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "ButchersBoy",
                 "repo": "Dragablz",
                 "stars": 2324
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
                 "stars": 2077
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "PropertyTools",
                 "repo": "PropertyTools",
                 "stars": 1323
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "unosquare",
                 "repo": "ffmediaelement",
                 "stars": 1274
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "microsoft",
                 "repo": "InteractiveDataDisplay.WPF",
                 "stars": 1011
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "hardcodet",
                 "repo": "wpf-notifyicon",
                 "stars": 978
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "abbaye",
                 "repo": "WpfHexEditorIDE",
                 "stars": 930
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
                 "stars": 786
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "zeluisping",
                 "repo": "LoadingIndicators.WPF",
                 "stars": 741
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "ForNeVeR",
                 "repo": "xaml-math",
                 "stars": 720
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "Federerer",
                 "repo": "Notifications.Wpf",
                 "stars": 716
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -466,7 +495,8 @@
                 "owner": "samhocevar",
                 "repo": "emoji.wpf",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -481,7 +511,8 @@
                 "owner": "Enterwell",
                 "repo": "Wpf.Notifications",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -496,7 +527,8 @@
                 "owner": "quicoli",
                 "repo": "WPF-AutoComplete-TextBox",
                 "stars": 414
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -511,7 +543,8 @@
                 "owner": "Sascha-L",
                 "repo": "WPF-MediaKit",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -526,7 +559,8 @@
                 "owner": "GuOrg",
                 "repo": "Gu.Wpf.Geometry",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -541,7 +575,8 @@
                 "owner": "evanwon",
                 "repo": "WPFCustomMessageBox",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -556,7 +591,8 @@
                 "owner": "ejensen",
                 "repo": "toggle-switch-control",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -571,7 +607,8 @@
                 "owner": "drogoganor",
                 "repo": "ColorPickerWPF",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -586,7 +623,8 @@
                 "owner": "realistschuckle",
                 "repo": "wpfchrometabs",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -601,7 +639,8 @@
                 "owner": "muhammad-magdy",
                 "repo": "WPFToastNotification",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             },
             {
               "node_type": "item",
@@ -616,7 +655,8 @@
                 "owner": "GuOrg",
                 "repo": "Gu.Wpf.FlipView",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T20:37:54.993Z"
             }
           ],
           "description": null,
@@ -642,7 +682,8 @@
             "owner": "charri",
             "repo": "Font-Awesome-WPF",
             "stars": 548
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -657,7 +698,8 @@
             "owner": "awesome-inc",
             "repo": "FontAwesome.Sharp",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -672,7 +714,8 @@
             "owner": "MartinTopfstedt",
             "repo": "FontAwesome5",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -687,7 +730,8 @@
             "owner": "MartinTopfstedt",
             "repo": "FontAwesome6",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -702,7 +746,8 @@
             "owner": "SubEthaSensOMatic",
             "repo": "wpf.fontawesome5",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         }
       ],
       "title": "Fonts"
@@ -719,11 +764,12 @@
             "archived": false,
             "id": 30474266,
             "language": "C#",
-            "last_commit": "2026-08-22T03:35:24Z",
+            "last_commit": "2026-08-28T06:13:36Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16246
-          }
+            "stars": 16249
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -737,8 +783,9 @@
             "last_commit": "2026-08-19T17:23:04Z",
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4959
-          }
+            "stars": 4961
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -753,7 +800,8 @@
             "owner": "TanyaPristupova",
             "repo": "WpfOfficeTheme",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         }
       ],
       "title": "Themes"
@@ -774,7 +822,8 @@
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6839
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -785,11 +834,12 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-27T13:30:45Z",
+            "last_commit": "2026-08-28T11:36:34Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -800,11 +850,12 @@
             "archived": false,
             "id": 16412440,
             "language": "C#",
-            "last_commit": "2026-07-17T15:11:04Z",
+            "last_commit": "2026-08-28T12:35:44Z",
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2863
-          }
+            "stars": 2862
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -819,7 +870,8 @@
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
             "stars": 2560
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -834,7 +886,8 @@
             "owner": "sourcechord",
             "repo": "FluentWPF",
             "stars": 1535
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -849,7 +902,8 @@
             "owner": "XamlAnimatedGif",
             "repo": "WpfAnimatedGif",
             "stars": 685
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -864,7 +918,8 @@
             "owner": "elmish",
             "repo": "Elmish.WPF",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -879,7 +934,8 @@
             "owner": "Empiree",
             "repo": "DeftSharp.Windows.Input",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -894,7 +950,8 @@
             "owner": "serilog-contrib",
             "repo": "serilog-sinks-richtextbox",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -909,7 +966,8 @@
             "owner": "maximcus",
             "repo": "WPFTabTip",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -924,7 +982,8 @@
             "owner": "GuOrg",
             "repo": "Gu.Localization",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -939,7 +998,8 @@
             "owner": "Pulselyre",
             "repo": "UpbeatUI",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         }
       ],
       "title": "Libraries"
@@ -959,8 +1019,9 @@
             "last_commit": "2026-08-23T10:04:34Z",
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2525
-          }
+            "stars": 2527
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -975,7 +1036,8 @@
             "owner": "WPFDevelopersOrg",
             "repo": "XamlViewer",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         }
       ],
       "title": "Utilities"
@@ -996,7 +1058,8 @@
             "owner": "MarkWithall",
             "repo": "worlds-simplest-csharp-wpf-mvvm-example",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         },
         {
           "node_type": "item",
@@ -1011,14 +1074,15 @@
             "owner": "SingletonSean",
             "repo": "SimpleTrader",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T20:37:54.993Z"
         }
       ],
       "title": "Sample Apps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:23:21.240Z",
+    "last_updated": "2026-08-28T20:37:54.993Z",
     "original_repository_info": {
       "archived": false,
       "id": 242047089,
