@@ -44,7 +44,7 @@
             "open_issues": 79,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5736,
+            "stars": 5735,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -105,7 +105,7 @@
                 "open_issues": 452,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9615,
+                "stars": 9617,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +139,7 @@
                 "open_issues": 328,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7174,
+                "stars": 7175,
                 "topics": [
                   "color-picker",
                   "control",
@@ -465,11 +465,11 @@
                 "id": 1135454,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T02:55:20Z",
-                "open_issues": 72,
+                "last_commit": "2026-08-29T09:15:46Z",
+                "open_issues": 71,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10246,
+                "stars": 10245,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:25:55.145Z",
+    "last_updated": "2026-08-29T14:07:42.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
@@ -1845,7 +1845,7 @@
       "open_issues": 1,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2164,
+      "stars": 2165,
       "topics": [
         "awesome",
         "awesome-list",
