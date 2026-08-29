@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WPF is a .NET Core UI framework for building Windows desktop applications.",
+            "homepage": null,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-28T11:16:28Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:09:24Z",
+            "open_issues": 1670,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7719
+            "stars": 7719,
+            "topics": [
+              "dotnet",
+              "help-wanted",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for WPF related samples",
+            "homepage": null,
             "id": 34023916,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-19T02:23:07Z",
+            "open_issues": 79,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5736
+            "stars": 5736,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         }
@@ -50,12 +64,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google's Material Design in XAML & WPF, for C# & VB.Net. ",
+                "homepage": null,
                 "id": 30474266,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:13:36Z",
+                "open_issues": 146,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16249
+                "stars": 16249,
+                "topics": [
+                  "c-sharp",
+                  "design",
+                  "dragablz",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "material",
+                  "material-design",
+                  "theme",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -66,12 +96,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.",
+                "homepage": "https://wpfui.lepo.co",
                 "id": 389218073,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-27T13:58:28Z",
+                "open_issues": 452,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9616
+                "stars": 9615,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "fluent",
+                  "mica",
+                  "theme",
+                  "ui",
+                  "windows-10",
+                  "windows-11",
+                  "wpf",
+                  "wpf-controls",
+                  "wpf-ui",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -82,12 +130,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains some simple and commonly used WPF controls",
+                "homepage": "https://handyorg.github.io/",
                 "id": 134363073,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-11T02:30:52Z",
+                "open_issues": 328,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7174
+                "stars": 7174,
+                "topics": [
+                  "color-picker",
+                  "control",
+                  "csharp",
+                  "flipclock",
+                  "gif",
+                  "propertygrid",
+                  "relativepanel",
+                  "wpf",
+                  "wpf-controls",
+                  "wpf-ui",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -98,12 +163,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern styles and controls for your WPF applications",
+                "homepage": null,
                 "id": 216050620,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-19T17:23:04Z",
+                "open_issues": 2,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4961
+                "stars": 4961,
+                "topics": [
+                  "csharp",
+                  "desktop",
+                  "fluent-design",
+                  "windows",
+                  "winui",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -114,12 +192,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the controls missing in WPF. Over 1 million downloads.",
+                "homepage": null,
                 "id": 94242089,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-11T14:37:13Z",
+                "open_issues": 783,
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
-                "stars": 4165
+                "stars": 4165,
+                "topics": [
+                  "controls",
+                  "datagrid",
+                  "datagrid-component",
+                  "theme",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -130,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Modern UI for WPF",
+                "homepage": null,
                 "id": 30497800,
                 "language": "C#",
+                "license": "MS-PL",
                 "last_commit": "2021-07-27T03:24:40Z",
+                "open_issues": 145,
                 "owner": "kozw",
                 "repo": "mui",
-                "stars": 2602
+                "stars": 2602,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -146,12 +241,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals",
+                "homepage": "https://benruehl.github.io/adonis-ui/",
                 "id": 131342955,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-09-29T06:49:57Z",
+                "open_issues": 50,
                 "owner": "benruehl",
                 "repo": "adonis-ui",
-                "stars": 1868
+                "stars": 1868,
+                "topics": [
+                  "color-scheme",
+                  "csharp",
+                  "dark-theme",
+                  "design",
+                  "hacktoberfest",
+                  "light-theme",
+                  "skinning",
+                  "theme",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -162,12 +273,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome dialogs for Windows Desktop applications built with Microsoft .NET (WPF)",
+                "homepage": null,
                 "id": 151457021,
                 "language": "C#",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-01-23T15:22:32Z",
+                "open_issues": 44,
                 "owner": "ookii-dialogs",
                 "repo": "ookii-dialogs-wpf",
-                "stars": 1337
+                "stars": 1337,
+                "topics": [
+                  "common-file-dialog",
+                  "credential-dialog",
+                  "dialogs",
+                  "hacktoberfest",
+                  "ookii",
+                  "progress-dialog",
+                  "task-dialog",
+                  "windows-presentation-foundation",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -178,12 +304,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shared Controlz for WPF and ... more",
+                "homepage": null,
                 "id": 44004571,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-21T18:46:48Z",
+                "open_issues": 9,
                 "owner": "ControlzEx",
                 "repo": "ControlzEx",
-                "stars": 1068
+                "stars": 1068,
+                "topics": [
+                  "control",
+                  "controlzex",
+                  "fluentribbon",
+                  "hacktoberfest",
+                  "icon-pack",
+                  "mahapps",
+                  "open-source",
+                  "oss",
+                  "shell",
+                  "tooltips",
+                  "windowchrome",
+                  "windows",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -194,12 +340,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern (Fluent 2) styles and controls for your WPF applications",
+                "homepage": null,
                 "id": 645664324,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-26T06:30:03Z",
+                "open_issues": 93,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1028
+                "stars": 1028,
+                "topics": [
+                  "controls",
+                  "csharp-library",
+                  "dotnet",
+                  "fluent",
+                  "fluent-design",
+                  "inkore",
+                  "microsoft",
+                  "modern",
+                  "style",
+                  "ui",
+                  "windows",
+                  "wpf",
+                  "wpf-controls",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -210,12 +376,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Design Extensions is based on Material Design in XAML Toolkit to provide additional controls and features for WPF apps",
+                "homepage": "https://spiegelp.github.io/MaterialDesignExtensions/",
                 "id": 110346556,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-03-07T18:12:58Z",
+                "open_issues": 78,
                 "owner": "spiegelp",
                 "repo": "MaterialDesignExtensions",
-                "stars": 804
+                "stars": 804,
+                "topics": [
+                  "app-bar",
+                  "autocomplete",
+                  "material",
+                  "material-design",
+                  "side-navigation",
+                  "stepper",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -226,12 +406,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A rich UserControl library to enhance the look and feel of WPF applications.",
+                "homepage": "http://www.codeproject.com/Articles/1060961/WPFSpark-v",
                 "id": 32869212,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-11-17T21:50:15Z",
+                "open_issues": 3,
                 "owner": "ratishphilip",
                 "repo": "wpfspark",
-                "stars": 569
+                "stars": 569,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -242,12 +427,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mosaic UI for WPF is a control library that seeks to provide compartmentalized controls.",
+                "homepage": null,
                 "id": 1045629604,
                 "language": "C#",
-                "last_commit": "2026-08-28T19:15:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:32:03Z",
+                "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "windows-presentation-foundation",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             }
@@ -265,12 +460,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework",
+                "homepage": "http://cefsharp.github.io/",
                 "id": 1135454,
                 "language": "C#",
-                "last_commit": "2026-08-16T03:08:57Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:55:20Z",
+                "open_issues": 72,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10246
+                "stars": 10246,
+                "topics": [
+                  "browser",
+                  "c-plus-plus",
+                  "c-sharp",
+                  "cefsharp",
+                  "framework",
+                  "winforms",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -281,12 +489,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎞 mpv.net is a media player for Windows with a modern GUI.",
+                "homepage": null,
                 "id": 101537172,
                 "language": "C#",
+                "license": "GPL-2.0",
                 "last_commit": "2026-02-09T13:12:05Z",
+                "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5353
+                "stars": 5354,
+                "topics": [
+                  "audio-player",
+                  "command-line",
+                  "dotnet",
+                  "ffmpeg",
+                  "gui",
+                  "javascript",
+                  "libmpv",
+                  "lua",
+                  "media-player",
+                  "mediainfo",
+                  "mpv",
+                  "music-player",
+                  "terminal",
+                  "video",
+                  "video-player",
+                  "windows",
+                  "winforms",
+                  "wpf",
+                  "yt-dlp"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -297,12 +530,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WPF Ribbon control like in Office",
+                "homepage": "http://fluentribbon.github.io",
                 "id": 26130868,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-23T10:22:20Z",
+                "open_issues": 14,
                 "owner": "fluentribbon",
                 "repo": "Fluent.Ribbon",
-                "stars": 2757
+                "stars": 2757,
+                "topics": [
+                  "c-sharp",
+                  "control",
+                  "csharp",
+                  "dotnet",
+                  "hacktoberfest",
+                  "office",
+                  "ribbon",
+                  "showcase-application",
+                  "windows",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -313,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dragable and tearable tab control for WPF",
+                "homepage": "http://dragablz.net",
                 "id": 26714757,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-05-22T06:01:01Z",
+                "open_issues": 140,
                 "owner": "ButchersBoy",
                 "repo": "Dragablz",
-                "stars": 2324
+                "stars": 2324,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -329,12 +584,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The WPF-based text editor component used in SharpDevelop",
+                "homepage": "http://avalonedit.net/",
                 "id": 18650309,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-12-04T12:58:14Z",
+                "open_issues": 117,
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
-                "stars": 2077
+                "stars": 2077,
+                "topics": [
+                  "avalonedit",
+                  "c-sharp",
+                  "nuget",
+                  "text-editor",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -345,12 +611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more",
+                "homepage": null,
                 "id": 23453387,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-08T06:43:59Z",
+                "open_issues": 55,
                 "owner": "PropertyTools",
                 "repo": "PropertyTools",
-                "stars": 1323
+                "stars": 1323,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -361,12 +632,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FFME: The Advanced WPF MediaElement (based on FFmpeg)",
+                "homepage": "https://unosquare.github.io/ffmediaelement/",
                 "id": 50423568,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-26T19:16:34Z",
+                "open_issues": 74,
                 "owner": "unosquare",
                 "repo": "ffmediaelement",
-                "stars": 1274
+                "stars": 1274,
+                "topics": [
+                  "audio",
+                  "audio-processing",
+                  "codec",
+                  "dotnet",
+                  "dotnet-framework",
+                  "ffmpeg",
+                  "ffmpeg-binaries",
+                  "ffplay",
+                  "h264",
+                  "macos",
+                  "media-playback",
+                  "mediaelement",
+                  "mp3",
+                  "mp4",
+                  "mpeg",
+                  "video",
+                  "volume",
+                  "wpf",
+                  "xamarin"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -377,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application. It allows to create line graphs, bubble charts, heat maps and other complex 2D plots which are very common in scientific software. Interactive Data Display for WPF integrates well with Bing Maps control to show data on a geographic map in latitude/longitude coordinates. The controls can also be operated programmatically.",
+                "homepage": null,
                 "id": 103371502,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-17T07:13:32Z",
+                "open_issues": 35,
                 "owner": "microsoft",
                 "repo": "InteractiveDataDisplay.WPF",
-                "stars": 1011
+                "stars": 1011,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -393,12 +694,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform",
+                "homepage": null,
                 "id": 196409337,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-10-16T21:41:32Z",
+                "open_issues": 39,
                 "owner": "hardcodet",
                 "repo": "wpf-notifyicon",
-                "stars": 978
+                "stars": 978,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "ui-components",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -409,12 +721,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WpfHexEditor Studio is a IDE built on WPF and .NET 8, designed for advanced binary analysis and reverse engineering—combining a powerful hex editor, deep inspection tools, and native support for .NET projects and Visual Studio solutions in a single high-performance platform.",
+                "homepage": "https://www.nuget.org/profiles/abbaye",
                 "id": 53133611,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-29T14:41:16Z",
+                "open_issues": 15,
                 "owner": "abbaye",
                 "repo": "WpfHexEditorIDE",
-                "stars": 930
+                "stars": 930,
+                "topics": [
+                  "binary",
+                  "codeeditor",
+                  "docking-framework",
+                  "docking-library",
+                  "editor",
+                  "hexadecimal",
+                  "hexedit",
+                  "hexeditor",
+                  "ide",
+                  "romhacking",
+                  "winform-ui",
+                  "winforms",
+                  "winforms-application",
+                  "wpf",
+                  "wpf-controls",
+                  "wpf-hexadecimal-usercontrol",
+                  "xaml-editor"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -425,12 +760,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.",
+                "homepage": null,
                 "id": 12374036,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-05-29T23:51:54Z",
+                "open_issues": 36,
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
-                "stars": 786
+                "stars": 786,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -441,12 +781,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of loading indicators for WPF",
+                "homepage": null,
                 "id": 17030702,
                 "language": "C#",
+                "license": "Unlicense",
                 "last_commit": "2022-04-06T14:17:57Z",
+                "open_issues": 6,
                 "owner": "zeluisping",
                 "repo": "LoadingIndicators.WPF",
-                "stars": 741
+                "stars": 741,
+                "topics": [
+                  "c-sharp",
+                  "mahapps",
+                  "metro",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -457,12 +807,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks",
+                "homepage": null,
                 "id": 81464927,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-15T00:31:30Z",
+                "open_issues": 93,
                 "owner": "ForNeVeR",
                 "repo": "xaml-math",
-                "stars": 720
+                "stars": 720,
+                "topics": [
+                  "dotnet",
+                  "formula",
+                  "hacktoberfest",
+                  "latex",
+                  "math",
+                  "render",
+                  "svg",
+                  "tex",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -473,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toast notifications for WPF",
+                "homepage": null,
                 "id": 81756216,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-10-20T22:40:21Z",
+                "open_issues": 17,
                 "owner": "Federerer",
                 "repo": "Notifications.Wpf",
-                "stars": 716
+                "stars": 716,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -489,12 +859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😸 Emoji support for WPF",
+                "homepage": null,
                 "id": 104948159,
                 "language": "C#",
+                "license": "WTFPL",
                 "last_commit": "2024-05-21T14:32:41Z",
+                "open_issues": 34,
                 "owner": "samhocevar",
                 "repo": "emoji.wpf",
-                "stars": 421
+                "stars": 421,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -505,12 +880,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WPF notifications UI controls (as seen in VS Code)",
+                "homepage": null,
                 "id": 84326685,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2020-11-11T22:34:05Z",
+                "open_issues": 5,
                 "owner": "Enterwell",
                 "repo": "Wpf.Notifications",
-                "stars": 416
+                "stars": 416,
+                "topics": [
+                  "notifications",
+                  "vscode",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -521,12 +905,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An autocomplete TextBox for WPF",
+                "homepage": null,
                 "id": 55780011,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-08-07T06:42:08Z",
+                "open_issues": 0,
                 "owner": "quicoli",
                 "repo": "WPF-AutoComplete-TextBox",
-                "stars": 414
+                "stars": 414,
+                "topics": [
+                  "autocomplete",
+                  "usercontrol",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -537,12 +930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 37663644,
                 "language": "C#",
+                "license": "MS-PL",
                 "last_commit": "2025-01-23T14:22:22Z",
+                "open_issues": 45,
                 "owner": "Sascha-L",
                 "repo": "WPF-MediaKit",
-                "stars": 386
+                "stars": 386,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -553,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 42720645,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-05-25T21:01:13Z",
+                "open_issues": 10,
                 "owner": "GuOrg",
                 "repo": "Gu.Wpf.Geometry",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -569,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WPF clone of the native Windows/.NET MessageBox with extra features like custom button text.",
+                "homepage": null,
                 "id": 4285940,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-12-29T13:02:33Z",
+                "open_issues": 14,
                 "owner": "evanwon",
                 "repo": "WPFCustomMessageBox",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -585,12 +993,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toggle switch control for WPF & Silverlight",
+                "homepage": "https://yetilabs.org/toggleswitch",
                 "id": 4878518,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2021-01-11T05:22:05Z",
+                "open_issues": 5,
                 "owner": "ejensen",
                 "repo": "toggle-switch-control",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "control",
+                  "dotnet",
+                  "toggle",
+                  "toggle-switch",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -601,12 +1020,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple color picker control for WPF",
+                "homepage": null,
                 "id": 81445658,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2020-06-24T16:30:12Z",
+                "open_issues": 5,
                 "owner": "drogoganor",
                 "repo": "ColorPickerWPF",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "color",
+                  "color-picker",
+                  "picker",
+                  "picker-component",
+                  "picker-library",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -617,12 +1048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WPF Control that duplicates the tabs found in Google Chrome.",
+                "homepage": null,
                 "id": 3599427,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2014-08-27T04:08:31Z",
+                "open_issues": 1,
                 "owner": "realistschuckle",
                 "repo": "wpfchrometabs",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -633,12 +1069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fancy toast notification for WPF applications easy to use and support MVVM pattern.",
+                "homepage": null,
                 "id": 49275563,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2020-10-11T15:06:26Z",
+                "open_issues": 3,
                 "owner": "muhammad-magdy",
                 "repo": "WPFToastNotification",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             },
@@ -649,12 +1090,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flipview for WPF, handles touch & mouse swipe.",
+                "homepage": null,
                 "id": 24191597,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-12-25T15:26:30Z",
+                "open_issues": 8,
                 "owner": "GuOrg",
                 "repo": "Gu.Wpf.FlipView",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
             }
@@ -676,12 +1122,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "FontAwesome controls for WPF+UWP",
+            "homepage": null,
             "id": 26922193,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-03-16T07:14:29Z",
+            "open_issues": 35,
             "owner": "charri",
             "repo": "Font-Awesome-WPF",
-            "stars": 548
+            "stars": 548,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -692,12 +1143,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for using Font Awesome in WPF & Windows Forms applications",
+            "homepage": null,
             "id": 32264169,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-31T08:34:36Z",
+            "open_issues": 0,
             "owner": "awesome-inc",
             "repo": "FontAwesome.Sharp",
-            "stars": 424
+            "stars": 424,
+            "topics": [
+              "dotnet-core",
+              "fontawesome",
+              "icon",
+              "material-design",
+              "windows-forms",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -708,12 +1171,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WPF controls for the iconic SVG, font, and CSS toolkit Font Awesome 5.",
+            "homepage": null,
             "id": 121869614,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-01-07T13:06:06Z",
+            "open_issues": 2,
             "owner": "MartinTopfstedt",
             "repo": "FontAwesome5",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "fontawesome",
+              "fontawesome5",
+              "netcore3",
+              "uwp",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -724,12 +1198,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WPF (.Net and .Net Core), UWP and WinUI controls for the web's most popular icon set and toolkit.",
+            "homepage": null,
             "id": 387030177,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-04-17T09:30:45Z",
+            "open_issues": 8,
             "owner": "MartinTopfstedt",
             "repo": "FontAwesome6",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "fontawesome",
+              "fontawesome6",
+              "uwp",
+              "winui",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -740,12 +1225,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Font Awesome 5 WPF Integration",
+            "homepage": null,
             "id": 123540017,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-01-31T10:12:31Z",
+            "open_issues": 0,
             "owner": "SubEthaSensOMatic",
             "repo": "wpf.fontawesome5",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "desktop",
+              "dot-net",
+              "fontawesome",
+              "icons",
+              "windows",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         }
@@ -762,12 +1259,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google's Material Design in XAML & WPF, for C# & VB.Net. ",
+            "homepage": null,
             "id": 30474266,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:13:36Z",
+            "open_issues": 146,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16249
+            "stars": 16249,
+            "topics": [
+              "c-sharp",
+              "design",
+              "dragablz",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "material",
+              "material-design",
+              "theme",
+              "wpf",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -778,12 +1291,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern styles and controls for your WPF applications",
+            "homepage": null,
             "id": 216050620,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-19T17:23:04Z",
+            "open_issues": 2,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4961
+            "stars": 4961,
+            "topics": [
+              "csharp",
+              "desktop",
+              "fluent-design",
+              "windows",
+              "winui",
+              "wpf",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -794,12 +1320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 54457575,
             "language": "C#",
+            "license": null,
             "last_commit": "2016-07-06T16:32:06Z",
+            "open_issues": 1,
             "owner": "TanyaPristupova",
             "repo": "WpfOfficeTheme",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         }
@@ -816,12 +1347,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..",
+            "homepage": null,
             "id": 31335300,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T01:21:10Z",
+            "open_issues": 27,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6839
+            "stars": 6839,
+            "topics": [
+              "c-sharp",
+              "hacktoberfest",
+              "mvvm",
+              "prism",
+              "visual-studio",
+              "wpf",
+              "xamarin-forms",
+              "xamarin-studio"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -832,12 +1377,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The .NET MVVM framework for cross-platform solutions, including Android, iOS, MacCatalyst, macOS, tvOS, WPF, WinUI",
+            "homepage": "http://mvvmcross.com",
             "id": 2870911,
             "language": "C#",
+            "license": "MS-PL",
             "last_commit": "2026-08-28T11:36:34Z",
+            "open_issues": 185,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3921
+            "stars": 3921,
+            "topics": [
+              "android",
+              "c-sharp",
+              "dotnet",
+              "hacktoberfest",
+              "ios",
+              "ios-framework",
+              "macos",
+              "monodroid",
+              "monotouch",
+              "mvvm",
+              "mvvmcross",
+              "net-7",
+              "net-8",
+              "nuget",
+              "tvos",
+              "tvos-framework",
+              "winui3",
+              "wpf",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -848,12 +1418,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.",
+            "homepage": "http://caliburnmicro.com/",
             "id": 16412440,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:35:44Z",
+            "open_issues": 107,
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2862
+            "stars": 2862,
+            "topics": [
+              "avalonia-ui",
+              "c-sharp",
+              "dotnet-maui",
+              "hacktoberfest",
+              "mvvm",
+              "uwp",
+              "vb-net",
+              "windows-10",
+              "windows-desktop",
+              "winui3",
+              "winui3-in-desktop",
+              "wpf",
+              "xamarin-forms"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -864,12 +1453,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The GongSolutions.WPF.DragDrop library is a drag'n'drop framework for WPF",
+            "homepage": null,
             "id": 8058569,
             "language": "C#",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-01T06:35:42Z",
+            "open_issues": 45,
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
-            "stars": 2560
+            "stars": 2560,
+            "topics": [
+              "c-sharp",
+              "drag",
+              "drag-and-drop",
+              "drag-drop",
+              "drop",
+              "gong-wpf-dragdrop",
+              "gui",
+              "hacktoberfest",
+              "open-source",
+              "oss",
+              "ui",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -880,12 +1487,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent Design System for WPF.",
+            "homepage": null,
             "id": 112254219,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-04-08T17:04:32Z",
+            "open_issues": 40,
             "owner": "sourcechord",
             "repo": "FluentWPF",
-            "stars": 1535
+            "stars": 1535,
+            "topics": [
+              "acrylic",
+              "c-sharp",
+              "fluent-design",
+              "fluentdesign",
+              "theme",
+              "wpf",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -896,12 +1516,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple library to display animated GIF images in WPF, usable in XAML or in code.",
+            "homepage": null,
             "id": 23852265,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-11T13:07:16Z",
+            "open_issues": 2,
             "owner": "XamlAnimatedGif",
             "repo": "WpfAnimatedGif",
-            "stars": 685
+            "stars": 685,
+            "topics": [
+              "animated",
+              "gif",
+              "hacktoberfest",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -912,12 +1542,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static WPF views for elmish programs",
+            "homepage": null,
             "id": 94093878,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-01T21:20:06Z",
+            "open_issues": 61,
             "owner": "elmish",
             "repo": "Elmish.WPF",
-            "stars": 461
+            "stars": 461,
+            "topics": [
+              "elm-architecture",
+              "elmish",
+              "wpf",
+              "xaml",
+              "xaml-views"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -928,12 +1569,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source .NET library for managing native keyboard and mouse events in Windows OS.",
+            "homepage": null,
             "id": 766234222,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-06-04T10:49:16Z",
+            "open_issues": 8,
             "owner": "Empiree",
             "repo": "DeftSharp.Windows.Input",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "avalonia",
+              "csharp",
+              "dotnet",
+              "dotnetcore",
+              "input",
+              "keyboard",
+              "keyboard-listener",
+              "maui",
+              "maui-apps",
+              "maui-windows",
+              "mouse",
+              "mouse-listener",
+              "pinvoke",
+              "ui",
+              "winapi",
+              "windows",
+              "winforms",
+              "winui",
+              "winui3",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -944,12 +1611,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Serilog sink that writes log events to a WPF RichTextBox control with colors and theme support",
+            "homepage": null,
             "id": 337886572,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-23T02:02:42Z",
+            "open_issues": 19,
             "owner": "serilog-contrib",
             "repo": "serilog-sinks-richtextbox",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "augustoproiete",
+              "console",
+              "hacktoberfest",
+              "richtextbox",
+              "serilog",
+              "sinks",
+              "themes",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -960,12 +1641,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple TabTip / Virtual Keyboard integration for WPF apps on Win 8.1 and Win 10",
+            "homepage": null,
             "id": 65710822,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2018-05-13T14:20:15Z",
+            "open_issues": 17,
             "owner": "maximcus",
             "repo": "WPFTabTip",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "osk",
+              "tabtip",
+              "virtual-keyboard",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -976,12 +1667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 26049497,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-12-25T16:16:04Z",
+            "open_issues": 21,
             "owner": "GuOrg",
             "repo": "Gu.Localization",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -992,12 +1688,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight MVVM framework for touch based Windows applications on top of the WPF framework.",
+            "homepage": null,
             "id": 242596506,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-01-20T17:40:42Z",
+            "open_issues": 0,
             "owner": "Pulselyre",
             "repo": "UpbeatUI",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "touch",
+              "touchscreen",
+              "windows",
+              "windows-app",
+              "windows-desktop",
+              "wpf",
+              "wpf-application",
+              "wpf-controls",
+              "wpf-ui"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         }
@@ -1014,12 +1725,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snoop - The WPF Spy Utility",
+            "homepage": null,
             "id": 4137931,
             "language": "C#",
+            "license": "MS-PL",
             "last_commit": "2026-08-23T10:04:34Z",
+            "open_issues": 17,
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2527
+            "stars": 2527,
+            "topics": [
+              "hacktoberfest",
+              "snoop",
+              "spy",
+              "utility",
+              "wpf",
+              "wpf-spy-utility",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -1030,12 +1754,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XAML Viewer is a lightweight XAML editor.",
+            "homepage": null,
             "id": 221394621,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-09-20T08:52:33Z",
+            "open_issues": 3,
             "owner": "WPFDevelopersOrg",
             "repo": "XamlViewer",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "desktop",
+              "editor",
+              "multi-target",
+              "netcore3",
+              "preview",
+              "wpf",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         }
@@ -1052,12 +1789,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The World's Simplest C# WPF MVVM Example",
+            "homepage": "http://www.markwithall.com/programming/2013/03/01/worlds-simplest-csharp-wpf-mvvm-example.html",
             "id": 8504945,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-30T19:37:18Z",
+            "open_issues": 1,
             "owner": "MarkWithall",
             "repo": "worlds-simplest-csharp-wpf-mvvm-example",
-            "stars": 371
+            "stars": 371,
+            "topics": [
+              "c-sharp",
+              "mvvm",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         },
@@ -1068,12 +1814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full stack WPF MVVM trading application.",
+            "homepage": null,
             "id": 230993649,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-10-05T11:05:37Z",
+            "open_issues": 6,
             "owner": "SingletonSean",
             "repo": "SimpleTrader",
-            "stars": 319
+            "stars": 319,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
         }
@@ -1082,15 +1833,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:37:54.993Z",
+    "last_updated": "2026-08-29T04:25:55.145Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome WPF resources, libraries and UI controls.",
+      "homepage": null,
       "id": 242047089,
       "language": "C#",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-02T13:02:54Z",
+      "open_issues": 1,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2164
+      "stars": 2164,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "controls",
+        "dotnet",
+        "dotnet-core",
+        "net",
+        "ui-components",
+        "wpf"
+      ]
     },
     "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
     "enhanced_repository": "enhansome/enhansome-wpf",
