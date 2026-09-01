@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-31T02:06:37Z",
-            "open_issues": 1672,
+            "last_commit": "2026-09-01T05:01:15Z",
+            "open_issues": 1669,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7722,
+            "stars": 7721,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -44,7 +44,7 @@
             "open_issues": 79,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5734,
+            "stars": 5733,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -105,7 +105,7 @@
                 "open_issues": 452,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9619,
+                "stars": 9620,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -469,7 +469,7 @@
                 "open_issues": 71,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10249,
+                "stars": 10251,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5355,
+                "stars": 5360,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -769,7 +769,7 @@
                 "open_issues": 36,
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
-                "stars": 786,
+                "stars": 785,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -816,7 +816,7 @@
                 "open_issues": 93,
                 "owner": "ForNeVeR",
                 "repo": "xaml-math",
-                "stars": 721,
+                "stars": 719,
                 "topics": [
                   "dotnet",
                   "formula",
@@ -868,7 +868,7 @@
                 "open_issues": 34,
                 "owner": "samhocevar",
                 "repo": "emoji.wpf",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 27,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6840,
+            "stars": 6839,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1462,7 +1462,7 @@
             "open_issues": 45,
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
-            "stars": 2560,
+            "stars": 2562,
             "topics": [
               "c-sharp",
               "drag",
@@ -1734,7 +1734,7 @@
             "open_issues": 17,
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2527,
+            "stars": 2529,
             "topics": [
               "hacktoberfest",
               "snoop",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:38:39.038Z",
+    "last_updated": "2026-09-01T13:53:01.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
