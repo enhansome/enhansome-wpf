@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T10:50:10Z",
-            "open_issues": 1665,
+            "last_commit": "2026-09-05T04:15:36Z",
+            "open_issues": 1666,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7724,
+            "stars": 7725,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -44,7 +44,7 @@
             "open_issues": 80,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5733,
+            "stars": 5731,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -172,7 +172,7 @@
                 "open_issues": 4,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4960,
+                "stars": 4961,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -432,11 +432,11 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:49:43Z",
+                "last_commit": "2026-09-04T19:43:13Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -465,8 +465,8 @@
                 "id": 1135454,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T21:42:34Z",
-                "open_issues": 72,
+                "last_commit": "2026-09-04T22:19:25Z",
+                "open_issues": 71,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
                 "stars": 10255,
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5373,
+                "stars": 5375,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -1300,7 +1300,7 @@
             "open_issues": 4,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4960,
+            "stars": 4961,
             "topics": [
               "csharp",
               "desktop",
@@ -1496,7 +1496,7 @@
             "open_issues": 40,
             "owner": "sourcechord",
             "repo": "FluentWPF",
-            "stars": 1534,
+            "stars": 1535,
             "topics": [
               "acrylic",
               "c-sharp",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:05:27.679Z",
+    "last_updated": "2026-09-05T12:17:57.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
