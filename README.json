@@ -15,7 +15,7 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-05T04:15:36Z",
+            "last_commit": "2026-09-06T04:44:35Z",
             "open_issues": 1666,
             "owner": "dotnet",
             "repo": "wpf",
@@ -44,7 +44,7 @@
             "open_issues": 80,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5731,
+            "stars": 5730,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -105,7 +105,7 @@
                 "open_issues": 452,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9625,
+                "stars": 9623,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +139,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7178,
+                "stars": 7179,
                 "topics": [
                   "color-picker",
                   "control",
@@ -168,8 +168,8 @@
                 "id": 216050620,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T05:35:42Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-06T12:10:36Z",
+                "open_issues": 3,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
                 "stars": 4961,
@@ -432,7 +432,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-04T19:43:13Z",
+                "last_commit": "2026-09-05T16:43:40Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -593,7 +593,7 @@
                 "open_issues": 117,
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
-                "stars": 2078,
+                "stars": 2079,
                 "topics": [
                   "avalonedit",
                   "c-sharp",
@@ -765,8 +765,8 @@
                 "id": 12374036,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2023-05-29T23:51:54Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-06T07:54:03Z",
+                "open_issues": 37,
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
                 "stars": 786,
@@ -1296,8 +1296,8 @@
             "id": 216050620,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-31T05:35:42Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-06T12:10:36Z",
+            "open_issues": 3,
             "owner": "Kinnara",
             "repo": "ModernWpf",
             "stars": 4961,
@@ -1329,7 +1329,7 @@
             "open_issues": 1,
             "owner": "TanyaPristupova",
             "repo": "WpfOfficeTheme",
-            "stars": 166,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1353,10 +1353,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-06T01:21:10Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6840,
+            "stars": 6841,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1386,7 +1386,7 @@
             "open_issues": 184,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3923,
+            "stars": 3921,
             "topics": [
               "android",
               "c-sharp",
@@ -1462,7 +1462,7 @@
             "open_issues": 45,
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
-            "stars": 2563,
+            "stars": 2564,
             "topics": [
               "c-sharp",
               "drag",
@@ -1763,7 +1763,7 @@
             "open_issues": 3,
             "owner": "WPFDevelopersOrg",
             "repo": "XamlViewer",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "desktop",
               "editor",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:17:57.418Z",
+    "last_updated": "2026-09-06T12:33:23.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
