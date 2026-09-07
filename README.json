@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-06T04:44:35Z",
-            "open_issues": 1666,
+            "last_commit": "2026-09-07T04:18:28Z",
+            "open_issues": 1668,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7725,
+            "stars": 7726,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -73,7 +73,7 @@
                 "open_issues": 144,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16254,
+                "stars": 16252,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -105,7 +105,7 @@
                 "open_issues": 452,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9623,
+                "stars": 9624,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +139,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7179,
+                "stars": 7180,
                 "topics": [
                   "color-picker",
                   "control",
@@ -168,8 +168,8 @@
                 "id": 216050620,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-06T12:10:36Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-07T05:41:33Z",
+                "open_issues": 2,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
                 "stars": 4961,
@@ -349,7 +349,7 @@
                 "open_issues": 93,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1030,
+                "stars": 1031,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -469,7 +469,7 @@
                 "open_issues": 71,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10255,
+                "stars": 10254,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5375,
+                "stars": 5379,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -572,7 +572,7 @@
                 "open_issues": 140,
                 "owner": "ButchersBoy",
                 "repo": "Dragablz",
-                "stars": 2325,
+                "stars": 2326,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1268,7 +1268,7 @@
             "open_issues": 144,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16254,
+            "stars": 16252,
             "topics": [
               "c-sharp",
               "design",
@@ -1296,8 +1296,8 @@
             "id": 216050620,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-06T12:10:36Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-07T05:41:33Z",
+            "open_issues": 2,
             "owner": "Kinnara",
             "repo": "ModernWpf",
             "stars": 4961,
@@ -1356,7 +1356,7 @@
             "open_issues": 28,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6841,
+            "stars": 6842,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1386,7 +1386,7 @@
             "open_issues": 184,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3921,
+            "stars": 3922,
             "topics": [
               "android",
               "c-sharp",
@@ -1462,7 +1462,7 @@
             "open_issues": 45,
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
-            "stars": 2564,
+            "stars": 2565,
             "topics": [
               "c-sharp",
               "drag",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:33:23.301Z",
+    "last_updated": "2026-09-07T14:43:13.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
