@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T10:01:15Z",
-            "open_issues": 1670,
+            "last_commit": "2026-09-10T03:44:39Z",
+            "open_issues": 1672,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7725,
+            "stars": 7724,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -44,7 +44,7 @@
             "open_issues": 80,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5731,
+            "stars": 5729,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -70,10 +70,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-04T06:38:28Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16255,
+                "stars": 16254,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -105,7 +105,7 @@
                 "open_issues": 452,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9629,
+                "stars": 9630,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +139,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7183,
+                "stars": 7182,
                 "topics": [
                   "color-picker",
                   "control",
@@ -201,7 +201,7 @@
                 "open_issues": 783,
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
-                "stars": 4166,
+                "stars": 4167,
                 "topics": [
                   "controls",
                   "datagrid",
@@ -349,7 +349,7 @@
                 "open_issues": 94,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1029,
+                "stars": 1028,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -436,7 +436,7 @@
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -469,7 +469,7 @@
                 "open_issues": 71,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10253,
+                "stars": 10254,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5383,
+                "stars": 5382,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -593,7 +593,7 @@
                 "open_issues": 117,
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
-                "stars": 2080,
+                "stars": 2081,
                 "topics": [
                   "avalonedit",
                   "c-sharp",
@@ -730,7 +730,7 @@
                 "open_issues": 15,
                 "owner": "abbaye",
                 "repo": "WpfHexEditorIDE",
-                "stars": 932,
+                "stars": 933,
                 "topics": [
                   "binary",
                   "codeeditor",
@@ -765,8 +765,8 @@
                 "id": 12374036,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-06T07:54:03Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-10T07:06:42Z",
+                "open_issues": 36,
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
                 "stars": 786,
@@ -812,7 +812,7 @@
                 "id": 81464927,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-09T02:20:17Z",
+                "last_commit": "2026-09-10T01:49:19Z",
                 "open_issues": 93,
                 "owner": "ForNeVeR",
                 "repo": "xaml-math",
@@ -1265,10 +1265,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-04T06:38:28Z",
-            "open_issues": 146,
+            "open_issues": 147,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16255,
+            "stars": 16254,
             "topics": [
               "c-sharp",
               "design",
@@ -1352,8 +1352,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T19:30:30Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-09T16:11:08Z",
+            "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6841,
@@ -1462,7 +1462,7 @@
             "open_issues": 45,
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
-            "stars": 2565,
+            "stars": 2566,
             "topics": [
               "c-sharp",
               "drag",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:19:42.258Z",
+    "last_updated": "2026-09-10T13:16:52.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
@@ -1845,7 +1845,7 @@
       "open_issues": 1,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2167,
+      "stars": 2166,
       "topics": [
         "awesome",
         "awesome-list",
