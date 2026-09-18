@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-17T10:53:08Z",
-            "open_issues": 1671,
+            "last_commit": "2026-09-18T03:47:13Z",
+            "open_issues": 1670,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7728,
@@ -44,7 +44,7 @@
             "open_issues": 81,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5738,
+            "stars": 5739,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -102,10 +102,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-27T13:58:28Z",
-                "open_issues": 454,
+                "open_issues": 452,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9643,
+                "stars": 9647,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -172,7 +172,7 @@
                 "open_issues": 3,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4959,
+                "stars": 4958,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -349,7 +349,7 @@
                 "open_issues": 94,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1028,
+                "stars": 1027,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5399,
+                "stars": 5400,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -590,7 +590,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2025-12-04T12:58:14Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
                 "stars": 2081,
@@ -620,7 +620,7 @@
                 "open_issues": 55,
                 "owner": "PropertyTools",
                 "repo": "PropertyTools",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -978,7 +978,7 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2022-12-29T13:02:33Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "evanwon",
                 "repo": "WPFCustomMessageBox",
                 "stars": 133,
@@ -1300,7 +1300,7 @@
             "open_issues": 3,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4959,
+            "stars": 4958,
             "topics": [
               "csharp",
               "desktop",
@@ -1356,7 +1356,7 @@
             "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6844,
+            "stars": 6845,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:03:26.740Z",
+    "last_updated": "2026-09-18T13:19:26.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
