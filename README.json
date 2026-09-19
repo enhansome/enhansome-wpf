@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-18T03:47:13Z",
-            "open_issues": 1670,
+            "last_commit": "2026-09-19T12:03:41Z",
+            "open_issues": 1672,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7728,
+            "stars": 7730,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -172,7 +172,7 @@
                 "open_issues": 3,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4958,
+                "stars": 4957,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -201,7 +201,7 @@
                 "open_issues": 783,
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
-                "stars": 4168,
+                "stars": 4169,
                 "topics": [
                   "controls",
                   "datagrid",
@@ -432,7 +432,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:49:39Z",
+                "last_commit": "2026-09-18T19:59:43Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5400,
+                "stars": 5401,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -620,7 +620,7 @@
                 "open_issues": 55,
                 "owner": "PropertyTools",
                 "repo": "PropertyTools",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1300,7 +1300,7 @@
             "open_issues": 3,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4958,
+            "stars": 4957,
             "topics": [
               "csharp",
               "desktop",
@@ -1382,8 +1382,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-09-16T08:43:40Z",
-            "open_issues": 190,
+            "last_commit": "2026-09-19T03:12:01Z",
+            "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3920,
@@ -1462,7 +1462,7 @@
             "open_issues": 46,
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
-            "stars": 2566,
+            "stars": 2567,
             "topics": [
               "c-sharp",
               "drag",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:19:26.721Z",
+    "last_updated": "2026-09-19T12:49:58.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
