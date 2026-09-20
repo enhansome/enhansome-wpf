@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-19T12:03:41Z",
-            "open_issues": 1672,
+            "last_commit": "2026-09-20T10:05:13Z",
+            "open_issues": 1674,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7730,
@@ -73,7 +73,7 @@
                 "open_issues": 147,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16257,
+                "stars": 16258,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -139,7 +139,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7189,
+                "stars": 7190,
                 "topics": [
                   "color-picker",
                   "control",
@@ -201,7 +201,7 @@
                 "open_issues": 783,
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
-                "stars": 4169,
+                "stars": 4170,
                 "topics": [
                   "controls",
                   "datagrid",
@@ -432,11 +432,11 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-18T19:59:43Z",
+                "last_commit": "2026-09-19T15:51:45Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -465,7 +465,7 @@
                 "id": 1135454,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T09:30:40Z",
+                "last_commit": "2026-09-20T07:52:13Z",
                 "open_issues": 67,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5401,
+                "stars": 5405,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -620,7 +620,7 @@
                 "open_issues": 55,
                 "owner": "PropertyTools",
                 "repo": "PropertyTools",
-                "stars": 1325,
+                "stars": 1326,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -730,7 +730,7 @@
                 "open_issues": 15,
                 "owner": "abbaye",
                 "repo": "WpfHexEditorIDE",
-                "stars": 935,
+                "stars": 936,
                 "topics": [
                   "binary",
                   "codeeditor",
@@ -1268,7 +1268,7 @@
             "open_issues": 147,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16257,
+            "stars": 16258,
             "topics": [
               "c-sharp",
               "design",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:49:58.044Z",
+    "last_updated": "2026-09-20T13:24:38.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
@@ -1845,7 +1845,7 @@
       "open_issues": 1,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2171,
+      "stars": 2172,
       "topics": [
         "awesome",
         "awesome-list",
