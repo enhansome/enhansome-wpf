@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-20T10:05:13Z",
-            "open_issues": 1674,
+            "last_commit": "2026-09-21T06:42:39Z",
+            "open_issues": 1672,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7730,
@@ -44,7 +44,7 @@
             "open_issues": 81,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5739,
+            "stars": 5741,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -105,7 +105,7 @@
                 "open_issues": 452,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9647,
+                "stars": 9650,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -168,11 +168,11 @@
                 "id": 216050620,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-14T05:39:18Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-21T05:35:18Z",
+                "open_issues": 2,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4957,
+                "stars": 4958,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -250,7 +250,7 @@
                 "open_issues": 50,
                 "owner": "benruehl",
                 "repo": "adonis-ui",
-                "stars": 1867,
+                "stars": 1868,
                 "topics": [
                   "color-scheme",
                   "csharp",
@@ -432,7 +432,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-19T15:51:45Z",
+                "last_commit": "2026-09-20T23:47:18Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -539,7 +539,7 @@
                 "open_issues": 15,
                 "owner": "fluentribbon",
                 "repo": "Fluent.Ribbon",
-                "stars": 2758,
+                "stars": 2759,
                 "topics": [
                   "c-sharp",
                   "control",
@@ -641,7 +641,7 @@
                 "open_issues": 74,
                 "owner": "unosquare",
                 "repo": "ffmediaelement",
-                "stars": 1274,
+                "stars": 1275,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -703,7 +703,7 @@
                 "open_issues": 39,
                 "owner": "hardcodet",
                 "repo": "wpf-notifyicon",
-                "stars": 977,
+                "stars": 976,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1296,11 +1296,11 @@
             "id": 216050620,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-14T05:39:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-21T05:35:18Z",
+            "open_issues": 2,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4957,
+            "stars": 4958,
             "topics": [
               "csharp",
               "desktop",
@@ -1356,7 +1356,7 @@
             "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6845,
+            "stars": 6846,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:24:38.550Z",
+    "last_updated": "2026-09-21T15:35:33.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
