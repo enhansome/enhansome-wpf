@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T13:21:32Z",
-            "open_issues": 1672,
+            "last_commit": "2026-09-23T09:56:22Z",
+            "open_issues": 1675,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7733,
@@ -73,7 +73,7 @@
                 "open_issues": 148,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16259,
+                "stars": 16258,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -102,10 +102,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-27T13:58:28Z",
-                "open_issues": 452,
+                "open_issues": 453,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9651,
+                "stars": 9654,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -229,7 +229,7 @@
                 "open_issues": 145,
                 "owner": "kozw",
                 "repo": "mui",
-                "stars": 2600,
+                "stars": 2599,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -250,7 +250,7 @@
                 "open_issues": 50,
                 "owner": "benruehl",
                 "repo": "adonis-ui",
-                "stars": 1868,
+                "stars": 1867,
                 "topics": [
                   "color-scheme",
                   "csharp",
@@ -432,7 +432,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-20T23:47:18Z",
+                "last_commit": "2026-09-22T15:19:57Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -469,7 +469,7 @@
                 "open_issues": 67,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10255,
+                "stars": 10256,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5408,
+                "stars": 5412,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -593,7 +593,7 @@
                 "open_issues": 118,
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
-                "stars": 2081,
+                "stars": 2080,
                 "topics": [
                   "avalonedit",
                   "c-sharp",
@@ -812,7 +812,7 @@
                 "id": 81464927,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-16T04:47:27Z",
+                "last_commit": "2026-09-22T18:38:02Z",
                 "open_issues": 93,
                 "owner": "ForNeVeR",
                 "repo": "xaml-math",
@@ -1268,7 +1268,7 @@
             "open_issues": 148,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16259,
+            "stars": 16258,
             "topics": [
               "c-sharp",
               "design",
@@ -1353,7 +1353,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T15:14:02Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6851,
@@ -1386,7 +1386,7 @@
             "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3920,
+            "stars": 3919,
             "topics": [
               "android",
               "c-sharp",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:50:54.452Z",
+    "last_updated": "2026-09-23T14:02:12.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
@@ -1845,7 +1845,7 @@
       "open_issues": 1,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2171,
+      "stars": 2170,
       "topics": [
         "awesome",
         "awesome-list",
