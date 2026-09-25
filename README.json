@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T13:14:27Z",
-            "open_issues": 1674,
+            "last_commit": "2026-09-25T03:46:13Z",
+            "open_issues": 1673,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7736,
+            "stars": 7737,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -69,11 +69,11 @@
                 "id": 30474266,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T04:53:14Z",
-                "open_issues": 148,
+                "last_commit": "2026-09-25T05:10:57Z",
+                "open_issues": 145,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16261,
+                "stars": 16264,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -105,7 +105,7 @@
                 "open_issues": 453,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9657,
+                "stars": 9659,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +139,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7193,
+                "stars": 7194,
                 "topics": [
                   "color-picker",
                   "control",
@@ -172,7 +172,7 @@
                 "open_issues": 3,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4957,
+                "stars": 4958,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -432,7 +432,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-24T12:24:58Z",
+                "last_commit": "2026-09-24T18:56:38Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -469,7 +469,7 @@
                 "open_issues": 67,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10259,
+                "stars": 10260,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5412,
+                "stars": 5418,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -1264,11 +1264,11 @@
             "id": 30474266,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-11T04:53:14Z",
-            "open_issues": 148,
+            "last_commit": "2026-09-25T05:10:57Z",
+            "open_issues": 145,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16261,
+            "stars": 16264,
             "topics": [
               "c-sharp",
               "design",
@@ -1300,7 +1300,7 @@
             "open_issues": 3,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4957,
+            "stars": 4958,
             "topics": [
               "csharp",
               "desktop",
@@ -1356,7 +1356,7 @@
             "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6851,
+            "stars": 6852,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1427,7 +1427,7 @@
             "open_issues": 107,
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2865,
+            "stars": 2866,
             "topics": [
               "avalonia-ui",
               "c-sharp",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:58:20.760Z",
+    "last_updated": "2026-09-25T14:22:55.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
