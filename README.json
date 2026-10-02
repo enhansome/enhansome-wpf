@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-01T12:53:39Z",
-            "open_issues": 1682,
+            "last_commit": "2026-10-02T03:46:07Z",
+            "open_issues": 1680,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7739,
@@ -69,8 +69,8 @@
                 "id": 30474266,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-28T01:42:49Z",
-                "open_issues": 146,
+                "last_commit": "2026-10-02T08:18:24Z",
+                "open_issues": 145,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
                 "stars": 16270,
@@ -102,10 +102,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-27T13:58:28Z",
-                "open_issues": 455,
+                "open_issues": 456,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9674,
+                "stars": 9678,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -229,7 +229,7 @@
                 "open_issues": 145,
                 "owner": "kozw",
                 "repo": "mui",
-                "stars": 2600,
+                "stars": 2599,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -282,7 +282,7 @@
                 "open_issues": 44,
                 "owner": "ookii-dialogs",
                 "repo": "ookii-dialogs-wpf",
-                "stars": 1338,
+                "stars": 1339,
                 "topics": [
                   "common-file-dialog",
                   "credential-dialog",
@@ -313,7 +313,7 @@
                 "open_issues": 9,
                 "owner": "ControlzEx",
                 "repo": "ControlzEx",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": [
                   "control",
                   "controlzex",
@@ -415,7 +415,7 @@
                 "open_issues": 3,
                 "owner": "ratishphilip",
                 "repo": "wpfspark",
-                "stars": 569,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -432,7 +432,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-30T20:47:02Z",
+                "last_commit": "2026-10-02T14:08:23Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5430,
+                "stars": 5434,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -620,7 +620,7 @@
                 "open_issues": 55,
                 "owner": "PropertyTools",
                 "repo": "PropertyTools",
-                "stars": 1330,
+                "stars": 1331,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -703,7 +703,7 @@
                 "open_issues": 39,
                 "owner": "hardcodet",
                 "repo": "wpf-notifyicon",
-                "stars": 978,
+                "stars": 977,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -769,7 +769,7 @@
                 "open_issues": 36,
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
-                "stars": 786,
+                "stars": 785,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1264,8 +1264,8 @@
             "id": 30474266,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-28T01:42:49Z",
-            "open_issues": 146,
+            "last_commit": "2026-10-02T08:18:24Z",
+            "open_issues": 145,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
             "stars": 16270,
@@ -1352,8 +1352,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T14:31:16Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-01T23:46:42Z",
+            "open_issues": 27,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6853,
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T15:56:18.130Z",
+    "last_updated": "2026-10-02T15:17:03.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
