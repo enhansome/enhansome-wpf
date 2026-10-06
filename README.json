@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-05T17:38:10Z",
-            "open_issues": 1682,
+            "last_commit": "2026-10-06T03:48:26Z",
+            "open_issues": 1683,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7738,
@@ -102,10 +102,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-27T13:58:28Z",
-                "open_issues": 456,
+                "open_issues": 457,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9682,
+                "stars": 9684,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +139,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7204,
+                "stars": 7205,
                 "topics": [
                   "color-picker",
                   "control",
@@ -172,7 +172,7 @@
                 "open_issues": 3,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4961,
+                "stars": 4962,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -345,11 +345,11 @@
                 "id": 645664324,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T11:22:02Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-06T07:18:35Z",
+                "open_issues": 92,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1031,
+                "stars": 1032,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5445,
+                "stars": 5448,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -1300,7 +1300,7 @@
             "open_issues": 3,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4961,
+            "stars": 4962,
             "topics": [
               "csharp",
               "desktop",
@@ -1352,11 +1352,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T16:46:53Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-06T04:32:46Z",
+            "open_issues": 17,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6852,
+            "stars": 6853,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:45:29.703Z",
+    "last_updated": "2026-10-06T11:06:44.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
@@ -1845,7 +1845,7 @@
       "open_issues": 1,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2169,
+      "stars": 2170,
       "topics": [
         "awesome",
         "awesome-list",
