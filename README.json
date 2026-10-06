@@ -44,7 +44,7 @@
             "open_issues": 82,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5738,
+            "stars": 5739,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -105,7 +105,7 @@
                 "open_issues": 457,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9684,
+                "stars": 9683,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +139,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7205,
+                "stars": 7204,
                 "topics": [
                   "color-picker",
                   "control",
@@ -432,7 +432,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-04T17:32:56Z",
+                "last_commit": "2026-10-06T13:15:33Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -847,7 +847,7 @@
                 "open_issues": 17,
                 "owner": "Federerer",
                 "repo": "Notifications.Wpf",
-                "stars": 717,
+                "stars": 716,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1352,8 +1352,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T04:32:46Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-06T13:11:57Z",
+            "open_issues": 14,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6853,
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:06:44.972Z",
+    "last_updated": "2026-10-06T15:39:01.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
