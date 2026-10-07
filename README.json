@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-06T03:48:26Z",
-            "open_issues": 1683,
+            "last_commit": "2026-10-07T08:04:55Z",
+            "open_issues": 1685,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7738,
@@ -73,7 +73,7 @@
                 "open_issues": 146,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16272,
+                "stars": 16271,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -105,7 +105,7 @@
                 "open_issues": 457,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9683,
+                "stars": 9685,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +139,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7204,
+                "stars": 7206,
                 "topics": [
                   "color-picker",
                   "control",
@@ -172,7 +172,7 @@
                 "open_issues": 3,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4962,
+                "stars": 4963,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -250,7 +250,7 @@
                 "open_issues": 50,
                 "owner": "benruehl",
                 "repo": "adonis-ui",
-                "stars": 1867,
+                "stars": 1868,
                 "topics": [
                   "color-scheme",
                   "csharp",
@@ -282,7 +282,7 @@
                 "open_issues": 44,
                 "owner": "ookii-dialogs",
                 "repo": "ookii-dialogs-wpf",
-                "stars": 1339,
+                "stars": 1340,
                 "topics": [
                   "common-file-dialog",
                   "credential-dialog",
@@ -432,11 +432,11 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-06T13:15:33Z",
+                "last_commit": "2026-10-07T13:29:19Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -469,7 +469,7 @@
                 "open_issues": 66,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10263,
+                "stars": 10264,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -498,7 +498,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5448,
+                "stars": 5450,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -593,7 +593,7 @@
                 "open_issues": 118,
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
-                "stars": 2083,
+                "stars": 2082,
                 "topics": [
                   "avalonedit",
                   "c-sharp",
@@ -769,7 +769,7 @@
                 "open_issues": 36,
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
-                "stars": 785,
+                "stars": 786,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1131,7 +1131,7 @@
             "open_issues": 35,
             "owner": "charri",
             "repo": "Font-Awesome-WPF",
-            "stars": 546,
+            "stars": 545,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1268,7 +1268,7 @@
             "open_issues": 146,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16272,
+            "stars": 16271,
             "topics": [
               "c-sharp",
               "design",
@@ -1300,7 +1300,7 @@
             "open_issues": 3,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4962,
+            "stars": 4963,
             "topics": [
               "csharp",
               "desktop",
@@ -1352,11 +1352,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T13:11:57Z",
+            "last_commit": "2026-10-07T15:59:44Z",
             "open_issues": 14,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6853,
+            "stars": 6855,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1382,8 +1382,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-09-19T03:12:01Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-07T03:16:16Z",
+            "open_issues": 192,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3920,
@@ -1462,7 +1462,7 @@
             "open_issues": 46,
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
-            "stars": 2568,
+            "stars": 2569,
             "topics": [
               "c-sharp",
               "drag",
@@ -1798,7 +1798,7 @@
             "open_issues": 1,
             "owner": "MarkWithall",
             "repo": "worlds-simplest-csharp-wpf-mvvm-example",
-            "stars": 371,
+            "stars": 370,
             "topics": [
               "c-sharp",
               "mvvm",
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:39:01.875Z",
+    "last_updated": "2026-10-07T16:02:17.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
@@ -1845,7 +1845,7 @@
       "open_issues": 1,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2170,
+      "stars": 2171,
       "topics": [
         "awesome",
         "awesome-list",
