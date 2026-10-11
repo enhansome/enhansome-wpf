@@ -73,7 +73,7 @@
                 "open_issues": 143,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16275,
+                "stars": 16276,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -91,6 +91,42 @@
             },
             {
               "node_type": "item",
+              "title": "Mahapps.Metro",
+              "description": "(FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.",
+                "homepage": "https://mahapps.github.io/mahapps.com/",
+                "id": 2584777,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-10-10T12:27:11Z",
+                "open_issues": 9,
+                "owner": "MahApps",
+                "repo": "MahApps.Metro",
+                "stars": 9833,
+                "topics": [
+                  "c-sharp",
+                  "hacktoberfest",
+                  "mahapps",
+                  "metro",
+                  "modern",
+                  "open-source",
+                  "oss",
+                  "theme",
+                  "ui",
+                  "windows",
+                  "winui",
+                  "wpf",
+                  "wpf-mahapps",
+                  "xaml"
+                ]
+              },
+              "first_seen": "2026-10-11T15:17:26.986Z"
+            },
+            {
+              "node_type": "item",
               "title": "WPF UI",
               "description": "(FREE, OPEN SOURCE) Modern styles and controls for WPF application inspired by the modern Microsoft Fluent Design System. A simple way to make your application written in WPF keep up with modern design trends. Design of the interface, choice of colors and the appearance of the controls were inspired by projects made by Microsoft for Windows 11.",
               "children": [],
@@ -105,7 +141,7 @@
                 "open_issues": 458,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9687,
+                "stars": 9690,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -139,7 +175,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7208,
+                "stars": 7209,
                 "topics": [
                   "color-picker",
                   "control",
@@ -172,7 +208,7 @@
                 "open_issues": 3,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4962,
+                "stars": 4961,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -201,7 +237,7 @@
                 "open_issues": 783,
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
-                "stars": 4170,
+                "stars": 4172,
                 "topics": [
                   "controls",
                   "datagrid",
@@ -250,7 +286,7 @@
                 "open_issues": 50,
                 "owner": "benruehl",
                 "repo": "adonis-ui",
-                "stars": 1869,
+                "stars": 1870,
                 "topics": [
                   "color-scheme",
                   "csharp",
@@ -432,7 +468,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-10T14:16:09Z",
+                "last_commit": "2026-10-10T17:21:12Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -465,7 +501,7 @@
                 "id": 1135454,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T22:35:37Z",
+                "last_commit": "2026-10-11T09:09:30Z",
                 "open_issues": 66,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
@@ -498,7 +534,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5470,
+                "stars": 5473,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -539,7 +575,7 @@
                 "open_issues": 15,
                 "owner": "fluentribbon",
                 "repo": "Fluent.Ribbon",
-                "stars": 2764,
+                "stars": 2765,
                 "topics": [
                   "c-sharp",
                   "control",
@@ -641,7 +677,7 @@
                 "open_issues": 74,
                 "owner": "unosquare",
                 "repo": "ffmediaelement",
-                "stars": 1274,
+                "stars": 1273,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -730,7 +766,7 @@
                 "open_issues": 15,
                 "owner": "abbaye",
                 "repo": "WpfHexEditorIDE",
-                "stars": 937,
+                "stars": 938,
                 "topics": [
                   "binary",
                   "codeeditor",
@@ -1268,7 +1304,7 @@
             "open_issues": 143,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16275,
+            "stars": 16276,
             "topics": [
               "c-sharp",
               "design",
@@ -1286,6 +1322,42 @@
         },
         {
           "node_type": "item",
+          "title": "Mahapps.Metro",
+          "description": "(FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.",
+            "homepage": "https://mahapps.github.io/mahapps.com/",
+            "id": 2584777,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-10-10T12:27:11Z",
+            "open_issues": 9,
+            "owner": "MahApps",
+            "repo": "MahApps.Metro",
+            "stars": 9833,
+            "topics": [
+              "c-sharp",
+              "hacktoberfest",
+              "mahapps",
+              "metro",
+              "modern",
+              "open-source",
+              "oss",
+              "theme",
+              "ui",
+              "windows",
+              "winui",
+              "wpf",
+              "wpf-mahapps",
+              "xaml"
+            ]
+          },
+          "first_seen": "2026-10-11T15:17:26.986Z"
+        },
+        {
+          "node_type": "item",
           "title": "ModernWPF UI Library",
           "description": "(FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.",
           "children": [],
@@ -1300,7 +1372,7 @@
             "open_issues": 3,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4962,
+            "stars": 4961,
             "topics": [
               "csharp",
               "desktop",
@@ -1352,11 +1424,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T11:53:38Z",
+            "last_commit": "2026-10-11T01:17:54Z",
             "open_issues": 13,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6855,
+            "stars": 6856,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1427,7 +1499,7 @@
             "open_issues": 106,
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2866,
+            "stars": 2865,
             "topics": [
               "avalonia-ui",
               "c-sharp",
@@ -1511,6 +1583,43 @@
         },
         {
           "node_type": "item",
+          "title": "MVVM Light Toolkit",
+          "description": "(FREE, OPEN SOURCE) The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.",
+            "homepage": "http://www.mvvmlight.net",
+            "id": 103763749,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2021-08-13T12:43:37Z",
+            "open_issues": 73,
+            "owner": "lbugnion",
+            "repo": "mvvmlight",
+            "stars": 1187,
+            "topics": [
+              "cross-platform",
+              "model-view-viewmodel",
+              "mvvm",
+              "mvvm-light-toolkit",
+              "mvvmlight",
+              "uwp",
+              "windows",
+              "windows-10",
+              "windows-desktop",
+              "windows-uwp",
+              "wpf",
+              "xamarin",
+              "xamarin-android",
+              "xamarin-forms",
+              "xamarin-ios"
+            ]
+          },
+          "first_seen": "2026-10-11T15:17:26.986Z"
+        },
+        {
+          "node_type": "item",
           "title": "WPF Animated GIF",
           "description": "(FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.",
           "children": [],
@@ -1525,7 +1634,7 @@
             "open_issues": 2,
             "owner": "XamlAnimatedGif",
             "repo": "WpfAnimatedGif",
-            "stars": 684,
+            "stars": 685,
             "topics": [
               "animated",
               "gif",
@@ -1833,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:58:30.106Z",
+    "last_updated": "2026-10-11T15:17:26.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
@@ -1841,11 +1950,11 @@
       "id": 242047089,
       "language": "C#",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-02T13:02:54Z",
+      "last_commit": "2026-10-10T18:53:30Z",
       "open_issues": 1,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2171,
+      "stars": 2172,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1857,7 +1966,7 @@
         "wpf"
       ]
     },
-    "original_repository_sha": "6880d759ffa223fe7c848753c7d48e18205302d2",
+    "original_repository_sha": "326325ee460f99584b11bfe9406086547a1b183b",
     "enhanced_repository": "enhansome/enhansome-wpf",
     "enhanced_repository_description": null,
     "title": "Awesome WPF with stars"
