@@ -2,7 +2,7 @@
 
 A collection of awesome WPF resources, libraries and UI controls.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,248 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,658 | 🐛 196 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,412 | 🐛 224 | 🌐 C# | 📅 2026-02-27.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,746 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,660 | 🐛 197 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,414 | 🐛 224 | 🌐 C# | 📅 2026-02-27.
 
 ## Contents
 
@@ -22,8 +22,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,248 | �
 
 ## General
 
-* [Windows Presentation Foundation (WPF) | GitHub](https://github.com/dotnet/wpf) ⭐ 7,739 | 🐛 1,688 | 🌐 C# | 📅 2026-10-15 - Windows Presentation Foundation GitHub Repository | WPF is a .NET Core UI framework for building Windows desktop applications.
-* [WPF-Samples](https://github.com/microsoft/WPF-Samples) ⭐ 5,741 | 🐛 82 | 🌐 C# | 📅 2026-09-22 - Microsoft Repository for WPF related samples.
+* [Windows Presentation Foundation (WPF) | GitHub](https://github.com/dotnet/wpf) ⭐ 7,741 | 🐛 1,688 | 🌐 C# | 📅 2026-10-15 - Windows Presentation Foundation GitHub Repository | WPF is a .NET Core UI framework for building Windows desktop applications.
+* [WPF-Samples](https://github.com/microsoft/WPF-Samples) ⭐ 5,742 | 🐛 82 | 🌐 C# | 📅 2026-09-22 - Microsoft Repository for WPF related samples.
 * [Windows Presentation Foundation](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) - Windows Presentation Foundation for .NET documentation | Microsoft Learn.
 * [What's new in WPF for .NET 10](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/whats-new/net100)
 * [How to upgrade a WPF desktop app to .NET 8](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/migration/?view=netdesktop-8.0) This article describes how to upgrade a Windows Presentation Foundation (WPF) desktop app to .NET 8.
@@ -33,9 +33,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,248 | �
 
 ### Control Suites
 
-* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐ 16,280 | 🐛 144 | 🌐 C# | 📅 2026-10-16 - (FREE, OPEN SOURCE) Google's Material Design in XAML & WPF, for C# & VB.Net.
-* [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) ⭐ 9,835 | 🐛 8 | 🌐 C# | 📅 2026-10-14 - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-* [WPF UI](https://github.com/lepoco/wpfui) ⭐ 9,702 | 🐛 460 | 🌐 C# | 📅 2026-06-27 - (FREE, OPEN SOURCE) Modern styles and controls for WPF application inspired by the modern Microsoft Fluent Design System. A simple way to make your application written in WPF keep up with modern design trends. Design of the interface, choice of colors and the appearance of the controls were inspired by projects made by Microsoft for Windows 11.
+* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐ 16,281 | 🐛 144 | 🌐 C# | 📅 2026-10-17 - (FREE, OPEN SOURCE) Google's Material Design in XAML & WPF, for C# & VB.Net.
+* [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) ⭐ 9,835 | 🐛 7 | 🌐 C# | 📅 2026-10-14 - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+* [WPF UI](https://github.com/lepoco/wpfui) ⭐ 9,706 | 🐛 461 | 🌐 C# | 📅 2026-06-27 - (FREE, OPEN SOURCE) Modern styles and controls for WPF application inspired by the modern Microsoft Fluent Design System. A simple way to make your application written in WPF keep up with modern design trends. Design of the interface, choice of colors and the appearance of the controls were inspired by projects made by Microsoft for Windows 11.
 * [HandyControl](https://github.com/handyOrg/HandyControl) ⭐ 7,208 | 🐛 329 | 🌐 C# | 📅 2026-10-15 - (FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls.
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) ⭐ 4,960 | 🐛 3 | 🌐 C# | 📅 2026-10-12 - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
 * [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) ⭐ 4,171 | 🐛 783 | 🌐 C# | 📅 2026-06-11 - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications.
@@ -58,7 +58,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,248 | �
 ### Individual Controls
 
 * [CefSharp](https://github.com/cefsharp/cefsharp) ⭐ 10,265 | 🐛 66 | 🌐 C# | 📅 2026-10-12 - (FREE, OPEN SOURCE) .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework.
-* [mpv.net](https://github.com/stax76/mpv.net) ⭐ 5,483 | 🐛 156 | 🌐 C# | 📅 2026-02-09 - (FREE, OPEN SOURCE) mpv.net is a modern media player for Windows that works just like mpv.
+* [mpv.net](https://github.com/stax76/mpv.net) ⭐ 5,487 | 🐛 156 | 🌐 C# | 📅 2026-02-09 - (FREE, OPEN SOURCE) mpv.net is a modern media player for Windows that works just like mpv.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) ⭐ 2,765 | 🐛 15 | 🌐 C# | 📅 2026-09-13 - (FREE, OPEN SOURCE) Fluent.Ribbon is a library that implements an Office-like user interface for the Windows Presentation Foundation (WPF).
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) ⭐ 2,328 | 🐛 140 | 🌐 C# | 📅 2024-05-22 - (FREE, OPEN SOURCE) Tearable tab control for WPF, which includes docking, tool windows and MDI.
 * [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) ⭐ 2,082 | 🐛 118 | 🌐 C# | 📅 2025-12-04 - (FREE, OPEN SOURCE) AvalonEdit is the name of the WPF-based text editor in SharpDevelop 4.x.
@@ -102,22 +102,22 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,248 | �
 
 ## Themes
 
-* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐ 16,280 | 🐛 144 | 🌐 C# | 📅 2026-10-16 - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
-* [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) ⭐ 9,835 | 🐛 8 | 🌐 C# | 📅 2026-10-14 - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐ 16,281 | 🐛 144 | 🌐 C# | 📅 2026-10-17 - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
+* [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) ⭐ 9,835 | 🐛 7 | 🌐 C# | 📅 2026-10-14 - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) ⭐ 4,960 | 🐛 3 | 🌐 C# | 📅 2026-10-12 - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
 * [Wpf Office Theme](https://github.com/TanyaPristupova/WpfOfficeTheme) ⭐ 167 | 🐛 1 | 🌐 C# | 📅 2016-07-06 - (FREE, OPEN SOURCE) WPF theme influenced by minimalistic MS Office style.
 
 ## Libraries
 
-* [Prism](https://github.com/PrismLibrary/Prism) ⭐ 6,855 | 🐛 10 | 🌐 C# | 📅 2026-10-16 - (FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.
-* [MvvmCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,919 | 🐛 191 | 🌐 C# | 📅 2026-10-17 - (FREE, OPEN SOURCE) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+* [Prism](https://github.com/PrismLibrary/Prism) ⭐ 6,856 | 🐛 10 | 🌐 C# | 📅 2026-10-16 - (FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.
+* [MvvmCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,919 | 🐛 190 | 🌐 C# | 📅 2026-10-18 - (FREE, OPEN SOURCE) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) ⭐ 2,865 | 🐛 110 | 🌐 C# | 📅 2026-10-16 - (FREE, OPEN SOURCE) A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) ⭐ 2,569 | 🐛 46 | 🌐 C# | 📅 2025-12-01 - (FREE, OPEN SOURCE) An easy to use drag'n'drop framework for WPF.
-* [FluentWPF](https://github.com/sourcechord/FluentWPF) ⭐ 1,531 | 🐛 40 | 🌐 C# | 📅 2022-04-08 - (FREE, OPEN SOURCE) Fluent Design System for WPF.
+* [FluentWPF](https://github.com/sourcechord/FluentWPF) ⭐ 1,532 | 🐛 40 | 🌐 C# | 📅 2022-04-08 - (FREE, OPEN SOURCE) Fluent Design System for WPF.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) ⚠️ Archived - (FREE, OPEN SOURCE) The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.
 * [WPF Animated GIF](https://github.com/XamlAnimatedGif/WpfAnimatedGif) ⭐ 684 | 🐛 2 | 🌐 C# | 📅 2023-05-11 - (FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.
 * [Elmish.WPF](https://github.com/elmish/Elmish.WPF) ⭐ 463 | 🐛 61 | 🌐 F# | 📅 2024-10-01 - (FREE, OPEN SOURCE) The good parts of MVVM (the data bindings) with the simplicity and robustness of an MVU architecture for the rest of your app. Never write a ViewModel class again!
-* [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) ⭐ 150 | 🐛 2 | 🌐 C# | 📅 2026-10-12 - (FREE, OPEN SOURCE) A simple keyboard/mouse event handler for WPF applications.
+* [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) ⭐ 149 | 🐛 2 | 🌐 C# | 📅 2026-10-12 - (FREE, OPEN SOURCE) A simple keyboard/mouse event handler for WPF applications.
 * [Serilog.Sinks.RichTextBox.Wpf](https://github.com/augustoproiete/serilog-sinks-richtextbox) ⭐ 145 | 🐛 19 | 🌐 C# | 📅 2026-01-23 - (FREE, OPEN SOURCE) A Serilog sink that writes log events to any WPF RichTextBox control with coloring and custom theme support.
 * [WPFTabTip](https://github.com/maximcus/WPFTabTip) ⭐ 111 | 🐛 17 | 🌐 C# | 📅 2018-05-13 - (FREE, OPEN SOURCE) Simple TabTip / Virtual Keyboard integration for WPF apps on Win 8.1 and Win 10.
 * [Gu.Localization](https://github.com/GuOrg/Gu.Localization) ⭐ 76 | 🐛 21 | 🌐 C# | 📅 2023-12-25 - (FREE, OPEN SOURCE) Localization for WPF using ResourceManager.
@@ -130,7 +130,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,248 | �
 
 ## Utilities
 
-* [Snoop](https://github.com/snoopwpf/snoopwpf) ⭐ 2,539 | 🐛 17 | 🌐 C# | 📅 2026-08-23 - (FREE, OPEN SOURCE) Snoop is the open source WPF spying utility. It allows you to spy/browse the visual tree of a running application.
+* [Snoop](https://github.com/snoopwpf/snoopwpf) ⭐ 2,540 | 🐛 17 | 🌐 C# | 📅 2026-08-23 - (FREE, OPEN SOURCE) Snoop is the open source WPF spying utility. It allows you to spy/browse the visual tree of a running application.
 * [XAML Viewer](https://github.com/huangjia2107/XamlViewer) ⭐ 293 | 🐛 3 | 🌐 C# | 📅 2022-09-20 - (FREE, OPEN SOURCE) XAML Viewer is a lightweight XAML editor.
 * [XAMLFiddle](https://www.xamlfiddle.com/) - (FREE VERSION, COMMERCIAL) The Ultimate Lightweight XAML Editor.
 
@@ -175,4 +175,4 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,248 | �
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
