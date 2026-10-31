@@ -15,7 +15,7 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:21:16Z",
+            "last_commit": "2026-10-31T06:57:46Z",
             "open_issues": 1691,
             "owner": "dotnet",
             "repo": "wpf",
@@ -102,10 +102,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-25T13:59:06Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "MahApps",
                 "repo": "MahApps.Metro",
-                "stars": 9834,
+                "stars": 9835,
                 "topics": [
                   "c-sharp",
                   "hacktoberfest",
@@ -141,7 +141,7 @@
                 "open_issues": 466,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9732,
+                "stars": 9734,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -175,7 +175,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7216,
+                "stars": 7214,
                 "topics": [
                   "color-picker",
                   "control",
@@ -349,7 +349,7 @@
                 "open_issues": 9,
                 "owner": "ControlzEx",
                 "repo": "ControlzEx",
-                "stars": 1075,
+                "stars": 1076,
                 "topics": [
                   "control",
                   "controlzex",
@@ -385,7 +385,7 @@
                 "open_issues": 93,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1040,
+                "stars": 1041,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -534,7 +534,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5519,
+                "stars": 5520,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -575,7 +575,7 @@
                 "open_issues": 16,
                 "owner": "fluentribbon",
                 "repo": "Fluent.Ribbon",
-                "stars": 2766,
+                "stars": 2767,
                 "topics": [
                   "c-sharp",
                   "control",
@@ -1035,7 +1035,7 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2021-01-11T05:22:05Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "ejensen",
                 "repo": "toggle-switch-control",
                 "stars": 106,
@@ -1333,10 +1333,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-25T13:59:06Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "MahApps",
             "repo": "MahApps.Metro",
-            "stars": 9834,
+            "stars": 9835,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1428,7 +1428,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6867,
+            "stars": 6866,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1454,8 +1454,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-10-30T14:13:51Z",
-            "open_issues": 192,
+            "last_commit": "2026-10-30T20:28:34Z",
+            "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3922,
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:29:07.716Z",
+    "last_updated": "2026-10-31T14:57:44.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
