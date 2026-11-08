@@ -19,7 +19,7 @@
             "open_issues": 1702,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7750,
+            "stars": 7752,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -44,7 +44,7 @@
             "open_issues": 83,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5745,
+            "stars": 5746,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -73,7 +73,7 @@
                 "open_issues": 148,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16295,
+                "stars": 16296,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -141,7 +141,7 @@
                 "open_issues": 466,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9744,
+                "stars": 9745,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -208,7 +208,7 @@
                 "open_issues": 3,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4965,
+                "stars": 4966,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -468,7 +468,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:44:02Z",
+                "last_commit": "2026-11-08T14:58:04Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -531,10 +531,10 @@
                 "language": "C#",
                 "license": "GPL-2.0",
                 "last_commit": "2026-02-09T13:12:05Z",
-                "open_issues": 156,
+                "open_issues": 157,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5548,
+                "stars": 5549,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -608,7 +608,7 @@
                 "open_issues": 140,
                 "owner": "ButchersBoy",
                 "repo": "Dragablz",
-                "stars": 2332,
+                "stars": 2333,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -848,7 +848,7 @@
                 "id": 81464927,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-26T12:51:48Z",
+                "last_commit": "2026-11-08T11:47:27Z",
                 "open_issues": 93,
                 "owner": "ForNeVeR",
                 "repo": "xaml-math",
@@ -1304,7 +1304,7 @@
             "open_issues": 148,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16295,
+            "stars": 16296,
             "topics": [
               "c-sharp",
               "design",
@@ -1372,7 +1372,7 @@
             "open_issues": 3,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4965,
+            "stars": 4966,
             "topics": [
               "csharp",
               "desktop",
@@ -1428,7 +1428,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6871,
+            "stars": 6872,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:21:58.552Z",
+    "last_updated": "2026-11-08T15:43:35.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
