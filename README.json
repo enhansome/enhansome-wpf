@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-13T12:19:04Z",
+            "last_commit": "2026-11-14T09:30:37Z",
             "open_issues": 1706,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7752,
+            "stars": 7751,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -138,7 +138,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-27T13:58:28Z",
-                "open_issues": 467,
+                "open_issues": 469,
                 "owner": "lepoco",
                 "repo": "wpfui",
                 "stars": 9752,
@@ -237,7 +237,7 @@
                 "open_issues": 785,
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
-                "stars": 4177,
+                "stars": 4176,
                 "topics": [
                   "controls",
                   "datagrid",
@@ -265,7 +265,7 @@
                 "open_issues": 145,
                 "owner": "kozw",
                 "repo": "mui",
-                "stars": 2593,
+                "stars": 2594,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -385,7 +385,7 @@
                 "open_issues": 94,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -505,7 +505,7 @@
                 "open_issues": 69,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10269,
+                "stars": 10270,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -534,7 +534,7 @@
                 "open_issues": 155,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5559,
+                "stars": 5561,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -608,7 +608,7 @@
                 "open_issues": 140,
                 "owner": "ButchersBoy",
                 "repo": "Dragablz",
-                "stars": 2333,
+                "stars": 2331,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1424,8 +1424,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T14:04:27Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-14T14:51:14Z",
+            "open_issues": 9,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6873,
@@ -1458,7 +1458,7 @@
             "open_issues": 186,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3919,
+            "stars": 3920,
             "topics": [
               "android",
               "c-sharp",
@@ -1660,7 +1660,7 @@
             "open_issues": 61,
             "owner": "elmish",
             "repo": "Elmish.WPF",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "elm-architecture",
               "elmish",
@@ -1843,7 +1843,7 @@
             "open_issues": 17,
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2548,
+            "stars": 2549,
             "topics": [
               "hacktoberfest",
               "snoop",
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:54:08.300Z",
+    "last_updated": "2026-11-14T15:28:56.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
