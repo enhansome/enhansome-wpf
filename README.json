@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-19T09:50:01Z",
-            "open_issues": 1691,
+            "last_commit": "2026-11-20T02:13:32Z",
+            "open_issues": 1695,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7758,
@@ -44,7 +44,7 @@
             "open_issues": 82,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5746,
+            "stars": 5745,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -69,11 +69,11 @@
                 "id": 30474266,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-17T00:30:24Z",
-                "open_issues": 145,
+                "last_commit": "2026-11-20T07:27:13Z",
+                "open_issues": 140,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16305,
+                "stars": 16303,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -141,7 +141,7 @@
                 "open_issues": 458,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9770,
+                "stars": 9775,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -175,7 +175,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7229,
+                "stars": 7231,
                 "topics": [
                   "color-picker",
                   "control",
@@ -286,7 +286,7 @@
                 "open_issues": 50,
                 "owner": "benruehl",
                 "repo": "adonis-ui",
-                "stars": 1866,
+                "stars": 1867,
                 "topics": [
                   "color-scheme",
                   "csharp",
@@ -385,7 +385,7 @@
                 "open_issues": 94,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1049,
+                "stars": 1051,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -418,7 +418,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2024-03-07T18:12:58Z",
-                "open_issues": 78,
+                "open_issues": 77,
                 "owner": "spiegelp",
                 "repo": "MaterialDesignExtensions",
                 "stars": 804,
@@ -451,7 +451,7 @@
                 "open_issues": 3,
                 "owner": "ratishphilip",
                 "repo": "wpfspark",
-                "stars": 570,
+                "stars": 571,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -501,8 +501,8 @@
                 "id": 1135454,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T08:53:39Z",
-                "open_issues": 68,
+                "last_commit": "2026-11-19T21:42:02Z",
+                "open_issues": 67,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
                 "stars": 10271,
@@ -534,7 +534,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5576,
+                "stars": 5575,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -718,7 +718,7 @@
                 "open_issues": 35,
                 "owner": "microsoft",
                 "repo": "InteractiveDataDisplay.WPF",
-                "stars": 1012,
+                "stars": 1011,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -739,7 +739,7 @@
                 "open_issues": 38,
                 "owner": "hardcodet",
                 "repo": "wpf-notifyicon",
-                "stars": 976,
+                "stars": 975,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -766,7 +766,7 @@
                 "open_issues": 15,
                 "owner": "abbaye",
                 "repo": "WpfHexEditorIDE",
-                "stars": 940,
+                "stars": 939,
                 "topics": [
                   "binary",
                   "codeeditor",
@@ -805,7 +805,7 @@
                 "open_issues": 36,
                 "owner": "dwmkerr",
                 "repo": "consolecontrol",
-                "stars": 788,
+                "stars": 789,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -925,7 +925,7 @@
                 "open_issues": 5,
                 "owner": "Enterwell",
                 "repo": "Wpf.Notifications",
-                "stars": 415,
+                "stars": 414,
                 "topics": [
                   "notifications",
                   "vscode",
@@ -975,7 +975,7 @@
                 "open_issues": 45,
                 "owner": "Sascha-L",
                 "repo": "WPF-MediaKit",
-                "stars": 384,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1300,11 +1300,11 @@
             "id": 30474266,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-17T00:30:24Z",
-            "open_issues": 145,
+            "last_commit": "2026-11-20T07:27:13Z",
+            "open_issues": 140,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16305,
+            "stars": 16303,
             "topics": [
               "c-sharp",
               "design",
@@ -1428,7 +1428,7 @@
             "open_issues": 9,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6875,
+            "stars": 6873,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1454,8 +1454,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-18T14:20:20Z",
-            "open_issues": 187,
+            "last_commit": "2026-11-20T03:08:24Z",
+            "open_issues": 189,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -1499,7 +1499,7 @@
             "open_issues": 110,
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2865,
+            "stars": 2866,
             "topics": [
               "avalonia-ui",
               "c-sharp",
@@ -1568,7 +1568,7 @@
             "open_issues": 40,
             "owner": "sourcechord",
             "repo": "FluentWPF",
-            "stars": 1527,
+            "stars": 1528,
             "topics": [
               "acrylic",
               "c-sharp",
@@ -1597,7 +1597,7 @@
             "open_issues": 73,
             "owner": "lbugnion",
             "repo": "mvvmlight",
-            "stars": 1187,
+            "stars": 1186,
             "topics": [
               "cross-platform",
               "model-view-viewmodel",
@@ -1634,7 +1634,7 @@
             "open_issues": 2,
             "owner": "XamlAnimatedGif",
             "repo": "WpfAnimatedGif",
-            "stars": 683,
+            "stars": 682,
             "topics": [
               "animated",
               "gif",
@@ -1843,7 +1843,7 @@
             "open_issues": 17,
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2550,
+            "stars": 2549,
             "topics": [
               "hacktoberfest",
               "snoop",
@@ -1907,7 +1907,7 @@
             "open_issues": 1,
             "owner": "MarkWithall",
             "repo": "worlds-simplest-csharp-wpf-mvvm-example",
-            "stars": 371,
+            "stars": 370,
             "topics": [
               "c-sharp",
               "mvvm",
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:55:39.169Z",
+    "last_updated": "2026-11-20T17:28:27.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
