@@ -15,8 +15,8 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-20T02:13:32Z",
-            "open_issues": 1695,
+            "last_commit": "2026-11-21T02:01:56Z",
+            "open_issues": 1696,
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7758,
@@ -41,10 +41,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-18T02:23:28Z",
-            "open_issues": 82,
+            "open_issues": 84,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5745,
+            "stars": 5747,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -141,7 +141,7 @@
                 "open_issues": 458,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9775,
+                "stars": 9777,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -175,7 +175,7 @@
                 "open_issues": 329,
                 "owner": "HandyOrg",
                 "repo": "HandyControl",
-                "stars": 7231,
+                "stars": 7233,
                 "topics": [
                   "color-picker",
                   "control",
@@ -385,7 +385,7 @@
                 "open_issues": 94,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1051,
+                "stars": 1052,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -468,7 +468,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-14T19:55:22Z",
+                "last_commit": "2026-11-21T16:17:32Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -501,7 +501,7 @@
                 "id": 1135454,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T21:42:02Z",
+                "last_commit": "2026-11-21T03:42:51Z",
                 "open_issues": 67,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
@@ -534,7 +534,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5575,
+                "stars": 5576,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -1454,8 +1454,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-20T03:08:24Z",
-            "open_issues": 189,
+            "last_commit": "2026-11-21T03:08:15Z",
+            "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -1534,7 +1534,7 @@
             "open_issues": 46,
             "owner": "punker76",
             "repo": "gong-wpf-dragdrop",
-            "stars": 2570,
+            "stars": 2571,
             "topics": [
               "c-sharp",
               "drag",
@@ -1843,7 +1843,7 @@
             "open_issues": 17,
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2549,
+            "stars": 2550,
             "topics": [
               "hacktoberfest",
               "snoop",
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:28:27.232Z",
+    "last_updated": "2026-11-21T16:33:30.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
@@ -1951,10 +1951,10 @@
       "language": "C#",
       "license": "CC0-1.0",
       "last_commit": "2026-10-10T18:53:30Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "Carlos487",
       "repo": "awesome-wpf",
-      "stars": 2177,
+      "stars": 2176,
       "topics": [
         "awesome",
         "awesome-list",
