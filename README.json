@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-23T17:02:41Z",
+            "last_commit": "2026-11-24T17:00:43Z",
             "open_issues": 1693,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7759,
+            "stars": 7760,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -44,7 +44,7 @@
             "open_issues": 84,
             "owner": "microsoft",
             "repo": "WPF-Samples",
-            "stars": 5748,
+            "stars": 5747,
             "topics": []
           },
           "first_seen": "2026-08-28T20:37:54.993Z"
@@ -105,7 +105,7 @@
                 "open_issues": 7,
                 "owner": "MahApps",
                 "repo": "MahApps.Metro",
-                "stars": 9839,
+                "stars": 9838,
                 "topics": [
                   "c-sharp",
                   "hacktoberfest",
@@ -141,7 +141,7 @@
                 "open_issues": 456,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9782,
+                "stars": 9781,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -208,7 +208,7 @@
                 "open_issues": 4,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4966,
+                "stars": 4965,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -237,7 +237,7 @@
                 "open_issues": 785,
                 "owner": "xceedsoftware",
                 "repo": "wpftoolkit",
-                "stars": 4174,
+                "stars": 4173,
                 "topics": [
                   "controls",
                   "datagrid",
@@ -468,7 +468,7 @@
                 "id": 1045629604,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-22T18:49:48Z",
+                "last_commit": "2026-11-24T17:04:28Z",
                 "open_issues": 0,
                 "owner": "blakepell",
                 "repo": "MosaicUIWpf",
@@ -534,7 +534,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5581,
+                "stars": 5584,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -629,7 +629,7 @@
                 "open_issues": 117,
                 "owner": "icsharpcode",
                 "repo": "AvalonEdit",
-                "stars": 2089,
+                "stars": 2090,
                 "topics": [
                   "avalonedit",
                   "c-sharp",
@@ -653,10 +653,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-27T14:23:21Z",
-                "open_issues": 55,
+                "open_issues": 57,
                 "owner": "PropertyTools",
                 "repo": "PropertyTools",
-                "stars": 1333,
+                "stars": 1332,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -883,7 +883,7 @@
                 "open_issues": 17,
                 "owner": "Federerer",
                 "repo": "Notifications.Wpf",
-                "stars": 717,
+                "stars": 718,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1243,7 +1243,7 @@
             "open_issues": 8,
             "owner": "MartinTopfstedt",
             "repo": "FontAwesome6",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "fontawesome",
               "fontawesome6",
@@ -1336,7 +1336,7 @@
             "open_issues": 7,
             "owner": "MahApps",
             "repo": "MahApps.Metro",
-            "stars": 9839,
+            "stars": 9838,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1372,7 +1372,7 @@
             "open_issues": 4,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4966,
+            "stars": 4965,
             "topics": [
               "csharp",
               "desktop",
@@ -1454,8 +1454,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-22T03:08:22Z",
-            "open_issues": 193,
+            "last_commit": "2026-11-24T03:08:06Z",
+            "open_issues": 194,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -1843,7 +1843,7 @@
             "open_issues": 17,
             "owner": "snoopwpf",
             "repo": "snoopwpf",
-            "stars": 2549,
+            "stars": 2550,
             "topics": [
               "hacktoberfest",
               "snoop",
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:48:51.107Z",
+    "last_updated": "2026-11-24T19:52:23.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
