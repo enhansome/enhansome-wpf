@@ -15,11 +15,11 @@
             "id": 153711945,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-25T10:00:44Z",
+            "last_commit": "2026-11-26T07:08:13Z",
             "open_issues": 1693,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7763,
+            "stars": 7765,
             "topics": [
               "dotnet",
               "help-wanted",
@@ -73,7 +73,7 @@
                 "open_issues": 138,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16304,
+                "stars": 16306,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -105,7 +105,7 @@
                 "open_issues": 7,
                 "owner": "MahApps",
                 "repo": "MahApps.Metro",
-                "stars": 9838,
+                "stars": 9840,
                 "topics": [
                   "c-sharp",
                   "hacktoberfest",
@@ -141,7 +141,7 @@
                 "open_issues": 456,
                 "owner": "lepoco",
                 "repo": "wpfui",
-                "stars": 9782,
+                "stars": 9785,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -208,7 +208,7 @@
                 "open_issues": 4,
                 "owner": "Kinnara",
                 "repo": "ModernWpf",
-                "stars": 4967,
+                "stars": 4966,
                 "topics": [
                   "csharp",
                   "desktop",
@@ -385,7 +385,7 @@
                 "open_issues": 94,
                 "owner": "iNKORE-NET",
                 "repo": "UI.WPF.Modern",
-                "stars": 1051,
+                "stars": 1052,
                 "topics": [
                   "controls",
                   "csharp-library",
@@ -505,7 +505,7 @@
                 "open_issues": 69,
                 "owner": "cefsharp",
                 "repo": "CefSharp",
-                "stars": 10270,
+                "stars": 10271,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -575,7 +575,7 @@
                 "open_issues": 16,
                 "owner": "fluentribbon",
                 "repo": "Fluent.Ribbon",
-                "stars": 2768,
+                "stars": 2767,
                 "topics": [
                   "c-sharp",
                   "control",
@@ -608,7 +608,7 @@
                 "open_issues": 140,
                 "owner": "ButchersBoy",
                 "repo": "Dragablz",
-                "stars": 2331,
+                "stars": 2332,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -718,7 +718,7 @@
                 "open_issues": 35,
                 "owner": "microsoft",
                 "repo": "InteractiveDataDisplay.WPF",
-                "stars": 1011,
+                "stars": 1012,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:37:54.993Z"
@@ -1304,7 +1304,7 @@
             "open_issues": 138,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16304,
+            "stars": 16306,
             "topics": [
               "c-sharp",
               "design",
@@ -1336,7 +1336,7 @@
             "open_issues": 7,
             "owner": "MahApps",
             "repo": "MahApps.Metro",
-            "stars": 9838,
+            "stars": 9840,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1372,7 +1372,7 @@
             "open_issues": 4,
             "owner": "Kinnara",
             "repo": "ModernWpf",
-            "stars": 4967,
+            "stars": 4966,
             "topics": [
               "csharp",
               "desktop",
@@ -1428,7 +1428,7 @@
             "open_issues": 9,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6873,
+            "stars": 6874,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1872,7 +1872,7 @@
             "open_issues": 3,
             "owner": "WPFDevelopersOrg",
             "repo": "XamlViewer",
-            "stars": 294,
+            "stars": 295,
             "topics": [
               "desktop",
               "editor",
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:56:39.844Z",
+    "last_updated": "2026-11-26T18:46:48.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome WPF resources, libraries and UI controls.",
